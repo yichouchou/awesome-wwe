@@ -2,101 +2,79 @@
 
 ## 基本信息
 
-- **中文名/英文名**: 亚当科尔 / ADAM COLE
-- **擂台名**: Adam Cole / Unaturally Green
-- **本名**: Adam Joseph Cole
-- **出生日期**: 1989-04-25
-- **出生地**: Orlando, Florida, USA
-- **身高**: 5'10 (178 cm)
-- **体重**: 200 lbs (91 kg)
-- **首次登台**: 2008
-- **WWE首秀**: 2017
+- **中文名/英文名**: ADAM COLE / ADAM COLE
+- **擂台名**: ADAM COLE
+- **本名**: ADAM COLE
+- **出生日期**: TBD
+- **出生地**: USA
+- **身高**: TBD
+- **体重**: TBD
+- **首次登台**: TBD
+- **WWE首秀**: TBD
 
 ## 性格标签
 
 ### 核心特质 (关键词)
-首领气质, 魅力超凡, 技术型, BayBay, 王者
+WWE选手
 
 ### 口头禅/标志性台词
-- "Boom!"
-- "BayBay!"
-- "Adam Cole... BayBay!"
+- 待补充
 
 ### 标志性动作
-Panama Sunrise, Last Shot, Enzuigiri, Shining Wizard
+待补充
 
 ### 终结技
-**Boom - Last Shot**
+**待补充**
 
 ### 人格雷达图
 | 特质 | 指数 |
 |------|------|
-| 攻击性 | 75% |
-| 傲慢度 | 85% |
-| 幽默感 | 70% |
-| 领袖力 | 95% |
+| 攻击性 | 50% |
+| 傲慢度 | 50% |
+| 幽默感 | 50% |
+| 领袖力 | 50% |
 | 冷血度 | 50% |
 
 ## WWE 成就
 
 | 赛事/冠军 | 年份 | 详情 |
 |----------|------|------|
-| NXT Champion | 2017-2019 | Three-time, longest reign 403 days |
-| NXT North American Champion | 2019 | One-time |
-| WWEC Champion | 2019 | One-time |
-| Undisputed Tag Team Champion | 2023 | with Frankie Garner |
+| 待补充 | - | - |
 
 ## 职业生涯亮点
 
-### 2008-2015
-ROH, FIP, developing character
-
-### 2015-2017
-NXT debut, #DIY rivalry, NXT Champion 403 days
-
-### 2017-2021
-Main roster, UE founding
-
-### 2021-2024
-NXT 2.0 return, leader
-
-### 2024-2026
-Raw, top of mountain
+### 待补充
+选手职业发展时间线待查
 
 ## 经典对手/恩怨
 
-- **Johnny Gargano**
-- **Velveteen Dream**
-- **Pete Dunne**
-- **Pat McAfee**
+- 待补充
 
 ## 摔角风格
 
-- **站立技特点**: Striking technical, catch-as-catch-can grappling
-- **招牌动作**: Panama Sunrise, Last Shot, Enzuigiri, Shining Wizard
-- **终结技**: Boom - Last Shot
+- **站立技特点**: 待补充
+- **招牌动作**: 待补充
+- **终结技**: 待补充
 
 ## 代表剧本
 
 > *以下为角色典型场景对白，供 AI 生成参考：*
 
 **典型登场介绍：**
-"站在你们面前的是Adam Cole / Unaturally Green！来自Orlando, Florida, USA的Adam Joseph Cole！"
+"来自USA的ADAM COLE！"
 
 **经典对白：**
-Boom!
+待补充
 
 ## 经典语录
 
-1. "Boom!"
-2. "BayBay!"
-3. "Adam Cole... BayBay!"
+1. "待补充"
 
 ---
 
 ## 选手简介
 
-Adam Cole是当代最具魅力的反派领袖，Boom! BayBay!已成为职业摔角文化的一部分。
+ADAM COLE 是 WWE 的一位职业摔角选手。
 
 *Last updated: 2026-05-24*
 *数据来源: WWE.com & 官方资料*
