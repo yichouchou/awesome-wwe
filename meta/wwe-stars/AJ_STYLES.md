@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- **中文名/英文名**: AJ·斯泰尔斯 / AJ STYLES
+- **中文名/英文名**: AJ·斯泰尔斯 / AJ Styles
 - **擂台名**: AJ Styles / The Phenomenal One
 - **本名**: Allen Neal Jones
 - **出生日期**: 1977-06-02
@@ -50,7 +50,7 @@ Calm Before the Storm, Phenomenal Forearm, Stylin' DDT
 | NJPW IWGP Heavyweight Champion | 2014-2015 | One-time |
 | TNA World Heavyweight Champion | 2013 | Two-time |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
 ### 1999-2002
 TNA/Independent circuits, developed signature style
@@ -86,26 +86,15 @@ Undisputed Champion
 - **招牌动作**: Calm Before the Storm, Phenomenal Forearm, Stylin' DDT
 - **终结技**: Styles Clash
 
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Jacksonville, North Carolina, USA的Allen Neal Jones！
-**经典对白：**
-"The Phenomenal One!" 
-
 ## 经典语录
 
 1. "The Phenomenal One!"
 2. "I'm the brand!"
 3. "Phenomenal is the game!"
 
----
-
 ## 选手简介
 
 AJ Styles是现代摔角界最全面的选手之一，以技术精湛、高飞动作和爆发力著称。他是首位同时拥有TNA、NJPW、WWE三大冠军的选手。
 
-*Last updated: 2026-05-24*
-*数据来源: WWE.com & 官方资料*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

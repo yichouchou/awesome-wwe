@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- **中文名/英文名**: AJ·李 / AJ LEE
+- **中文名/英文名**: AJ·李 / AJ Lee
 - **擂台名**: AJ Lee / The Geek Chic
 - **本名**: April Mendez
 - **出生日期**: 1987-10-08
@@ -41,56 +41,48 @@ Wheelbarrow Suplex, Shining Wizard, Flash in the Pan
 
 | 赛事/冠军 | 年份 | 详情 |
 |----------|------|------|
-| WWE Divas Champion | 2014 | Three-time |
+| WWE Divas Champion | 2014 | Three-time（三次）|
 | WWE Women's Tag Team Champion | 2015 | with Paige |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
 ### 2008-2012
-Independent circuits, CHIKARA
+独立联盟时期，活跃于 CHIKARA 等赛场，磨练技术风格
 
 ### 2012-2015
-WWE main roster, three Divas Championship reigns
+加入 WWE 主阵容，三次获得 WWE Divas Championship
+
+### 2015
+与 Paige 组成搭档，获得 WWE Women's Tag Team Champion
 
 ### 2015-2018
-Tag team with Paige, retirement
+职业后期，2018年正式退役
 
 ### 2018-2026
-Retired, occasional appearances
+退役后偶尔出席特邀出场，保持摔角界影响力
 
 ## 经典对手/恩怨
 
-- **Kaitlyn**
-- **Paige**
-- **Nikki Bella**
-- **Natalya**
+- **Kaitlyn** — 争夺 WWE Divas Championship 的核心对手
+- **Paige** — 搭档与竞争对手，Women's Tag Team Champion 搭档
+- **Nikki Bella** — 多次剧情对抗，争夺冠军地位
+- **Natalya** — 技术型风格对手，剧情与比赛双重竞争
 
 ## 摔角风格
 
-- **站立技特点**: High-flying technical with mat wrestling
-- **招牌动作**: Wheelbarrow Suplex, Shining Wizard, Flash in the Pan
+- **站立技特点**: 高飞技术与地面柔道的结合，技术型摔角风格
+- **招牌动作**: Wheelbarrow Suplex、Shining Wizard、Flash in the Pan
 - **终结技**: Black Widow (Bridging cradle)
-
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Union City, New Jersey, USA的April Mendez！
-**经典对白：**
-"I'm a nerd and proud!" 
 
 ## 经典语录
 
-1. "I'm a nerd and proud!"
-2. "Geek power!"
-3. "Never underestimate a geek!"
-
----
+1. "I'm a nerd and proud!" — 标志性的书呆子宣言
+2. "Geek power!" — Geek力量的呐喊
+3. "Never underestimate a geek!" — 对低估她的人的最佳回应
 
 ## 选手简介
 
-AJ Lee是WWE历史上最具个性的女性选手之一，书呆子造型和出色的技术让她成为Geek文化的代表。
+AJ Lee是WWE历史上最具个性的女性选手之一，书呆子造型和出色的技术让她成为Geek文化的代表。作为 WWE Divas Championship 三次冠军得主，她以独特的"Geek"形象重新定义了女性摔角手的个性与风格。她与 Paige 的 Tag Team 组合也为人津津乐道。退役后依然偶尔出现在公众视野，继续影响下一代摔角选手。
 
-*Last updated: 2026-05-24*
-*数据来源: WWE.com & 官方资料*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

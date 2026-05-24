@@ -26,7 +26,7 @@
 Chicago Rock, Iron City Express, GTS
 
 ### 终结技
-**Ankle Lock - Iron City Express**
+Ankle Lock - Iron City Express
 
 ### 人格雷达图
 | 特质 | 指数 |
@@ -44,52 +44,50 @@ Chicago Rock, Iron City Express, GTS
 | NWA Champion | 2012-2014 | Three-time |
 | NWCA Champion | 2010 | One-time |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
-### 1999-2008
-Independent circuits, NWA champion career
+### 1999
+首次登台，开始独立圈职业生涯
 
 ### 2008-2015
-Trainer, backstage roles, NWA Global champion
+担任教练与后台角色期间，获得NWA Global冠军
+
+### 2010
+获得NWCA冠军（One-time）
+
+### 2012-2014
+三度夺得NWA冠军，职业生涯巅峰期
+
+### 2015
+WWE首秀，转型为制作人/教练
 
 ### 2015-2020
-WWE producer, coach, on-screen authority
+WWE制作人、教练，荧幕权威人物
 
 ### 2020-2025
-On-screen presence as commissioner figure
+以摔角总监/ commissioner形象活跃于荧幕
 
 ## 经典对手/恩怨
 
-- **Mick Foley**
-- **Stone Cold**
-- **Shawn Michaels**
+- **Mick Foley** — 传奇对决，硬度派代表人物
+- **Stone Cold** — 风格碰撞，王者对决
+- **Shawn Michaels** — 技术流派巅峰对决
 
 ## 摔角风格
 
-- **站立技特点**: Technical mat worker with old school toughness
-- **招牌动作**: Chicago Rock, Iron City Express, GTS
-- **终结技**: Ankle Lock - Iron City Express
-
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Chicago, Illinois, USA的Adam Pearce！
-**经典对白：**
-"I'm the Original Nightmare!" 
+- **站立技特点**: 技术型地板战打法，老派硬汉风格（Technical mat worker with old school toughness）
+- **招牌动作**: Chicago Rock、Iron City Express、GTS
+- **终结技**: Ankle Lock（三角锁腿）/ Iron City Express
 
 ## 经典语录
 
-1. "I'm the Original Nightmare!"
-2. "Five time, no time!"
-3. "Don't test me!"
-
----
+1. "I'm the Original Nightmare!" — 我的外号是"原始噩梦"！
+2. "Five time, no time!" — 五次冠军，无需多言！
+3. "Don't test me!" — 别挑战我！
 
 ## 选手简介
 
 Adam Pearce是真正的摔角老将，虽然擂台成就主要在独立圈，但作为WWE幕后人员和NWA冠军，他的贡献同样传奇。
 
-*Last updated: 2026-05-24*
-*数据来源: WWE.com & 官方资料*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

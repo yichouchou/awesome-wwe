@@ -45,41 +45,32 @@ Butcher Blade, Collar Elbow, Piledriver
 | WWF Hall of Fame | 2011 | Class of 2011 |
 | Professional Wrestling Hall of Fame | 2015 | Inducted |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
 ### 1958-1976
-Japan, Canada, US independent circuits - developed hardcore style
+Japan, Canada, US independent circuits — 发展硬核摔角风格，开拓血腥格斗先河
 
 ### 1976-1985
-WWF appearances, stipulation matches, hardcore pioneer
+WWF登台，规制赛先驱，奠定"血腥屠夫"形象
 
 ### 1985-1995
-Global circuits, Brawl for All winner, stampede matches
+全球巡演，Brawl for All冠军，Stampede Match等极限对决
 
 ### 1995-2010
-Legends appearances, trainer, influence on hardcore wrestling
+传奇选手身份巡演，担任教练，影响后世硬核摔角发展
 
 ## 经典对手/恩怨
 
-- **Dory Funk Jr.**
-- **Terry Funk**
-- **Fritz Von Erich**
-- **Jack Brisco**
+- **Dory Funk Jr.** — 经典硬核对决
+- **Terry Funk** — 血腥恩怨
+- **Fritz Von Erich** — 传奇对决
+- **Jack Brisco** — 巅峰对决
 
 ## 摔角风格
 
-- **站立技特点**: Hardcore brawler, stipulation match specialist
+- **站立技特点**: Hardcore brawler，以硬核对攻和极限规制赛著称
 - **招牌动作**: Butcher Blade, Collar Elbow, Piledriver
-- **终结技**: Butcher's Mark (Deep laceration)
-
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Khartoum, Sudan的Olaf Bober！
-**经典对白：**
-"BLOOD! BLOOD! BLOOD!" 
+- **终结技**: Butcher's Mark (Deep laceration / 深度割伤)
 
 ## 经典语录
 
@@ -87,11 +78,9 @@ Legends appearances, trainer, influence on hardcore wrestling
 2. "More blood!"
 3. "Let me cut you!"
 
----
-
 ## 选手简介
 
-Abdullah the Butcher是职业摔角历史上最具标志性的 hardcore 选手之一，以其血腥暴力风格、疯狂角色和对擂台战斗的狂热著称。他是硬核摔角的先驱。
+Abdullah the Butcher是职业摔角历史上最具标志性的 hardcore 选手之一，以其血腥暴力风格、疯狂角色和对擂台战斗的狂热著称。他是硬核摔角的先驱，职业生涯横跨数十年，在全球各地留下血腥传奇。其标志性的 Butcher's Mark 更是摔角史上最令人畏惧的终结技之一。
 
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
 *数据来源: WWE.com & 官方资料*

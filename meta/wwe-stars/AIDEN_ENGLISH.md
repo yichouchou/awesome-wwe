@@ -15,7 +15,7 @@
 ## 性格标签
 
 ### 核心特质 (关键词)
-艺术气息, Baroque, 表演者, 双线作战, 创意
+艺术气息, Baroque, 表演者, 双线作战, 创意, 傲慢, 幽默
 
 ### 口头禅/标志性台词
 - "Let me get that for you!"
@@ -44,7 +44,7 @@ Red Wedding, Meteor Rain, Cannonball
 | NXT Tag Team Champion | 2017 | with Simon Gotch |
 | WWE 24/7 Champion | 2019 | Multiple reigns |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
 ### 2007-2013
 Independent circuits, ROH, NWA
@@ -73,26 +73,15 @@ Producer and creative roles
 - **招牌动作**: Red Wedding, Meteor Rain, Cannonball
 - **终结技**: Red Wedding (Cradle assisted)
 
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Glenwood Springs, Colorado, USA的Matthew Clement！
-**经典对白：**
-"Let me get that for you!" 
-
 ## 经典语录
 
 1. "Let me get that for you!"
 2. "Simon says!"
 3. "I'm a showoff, darling!"
 
----
-
 ## 选手简介
 
 Aiden English是巴洛克艺术与职业摔角的完美结合，他的Simon says gimmick和Red Wedding终结技都是独特的创意。
 
-*Last updated: 2026-05-24*
-*数据来源: WWE.com & 官方资料*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

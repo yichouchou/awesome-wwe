@@ -25,7 +25,7 @@
 Bomb Buster, Powerbomb, Shoulder Block
 
 ### 终结技
-**Destruction Bomb (Spinning powerbomb)**
+Destruction Bomb (Spinning powerbomb)
 
 ### 人格雷达图
 | 特质 | 指数 |
@@ -43,16 +43,22 @@ Bomb Buster, Powerbomb, Shoulder Block
 | NWA Champion | 1995 | One-time |
 | WWE Intercontinental Champion | 1994 | One-time |
 
-## 职业生涯亮点
+## 职业生涯时间线
 
-### 1993-1996
-WWE development as main eventer, massive push
+### 1993
+WWE发展联盟训练与首秀，作为主要赛事选手培养
+
+### 1994
+WWE首秀，同年获得 WWE Intercontinental Champion
+
+### 1995
+获得 NWA Champion，毁灭者角色概念深化
 
 ### 1996-1999
-Transition to mid-card, various feuds
+转型中卡位，与 Tajiri、The Road Dogg、Bob Backlund 等选手展开恩怨
 
 ### 1999-2005
-Independent circuits, WCW cameo, global wrestling
+转战独立摔角联盟，WCW cameo，继续全球摔角生涯
 
 ## 经典对手/恩怨
 
@@ -62,18 +68,9 @@ Independent circuits, WCW cameo, global wrestling
 
 ## 摔角风格
 
-- **站立技特点**: Power-based brawler with explosive moves
+- **站立技特点**: Power-based brawler with explosive moves，以力量型压制和爆发性动作为核心
 - **招牌动作**: Bomb Buster, Powerbomb, Shoulder Block
 - **终结技**: Destruction Bomb (Spinning powerbomb)
-
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Vancouver, British Columbia, Canada的Brian Johnison！
-**经典对白：**
-"Adam Bomb is here to destroy!" 
 
 ## 经典语录
 
@@ -86,5 +83,5 @@ Independent circuits, WCW cameo, global wrestling
 
 Adam Bomb是1990年代 WWE 推出的力量型新人，作为毁灭者(Destruction)的儿子，他的角色结合了军事力量和爆炸性的攻击力。
 
-*Last updated: 2026-05-24*
-*数据来源: WWE.com & 官方资料*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

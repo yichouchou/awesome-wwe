@@ -44,22 +44,25 @@ Rose Plant, Party Foul, Lucha Libre Attacks
 | NXT Champion | 2015 | One-time |
 | WWE 24/7 Champion | 2019 | Multiple reigns |
 
-## 职业生涯亮点
+## 职业生涯时间线
+
+### 2008
+首次登台，职业生涯开始
 
 ### 2008-2014
-FCW/NXT development, party boy gimmick creation
+FCW/NXT发展阶段，party boy角色打造
 
 ### 2014-2015
-NXT main roster, party era
+NXT主阵容，派对时代
 
 ### 2015-2017
-Main roster, carnival character
+主阵容，卡通派对角色
 
 ### 2017-2020
-24/7 Champion chaos
+24/7冠军混乱期，多次卫冕
 
 ### 2020-2026
-Producer and ambassador
+WWE制作人兼形象大使
 
 ## 经典对手/恩怨
 
@@ -69,18 +72,9 @@ Producer and ambassador
 
 ## 摔角风格
 
-- **站立技特点**: High-energy brawler with Lucha influences
+- **站立技特点**: 高能量的搏击风格，融合Lucha Libre影响
 - **招牌动作**: Rose Plant, Party Foul, Lucha Libre Attacks
 - **终结技**: Last Night on Earth (Spin + Side Slam)
-
-## 代表剧本
-
-> *以下为角色典型场景对白，供 AI 生成参考：*
-
-**典型登场介绍：**
-"来自Wilmington, North Carolina, USA的Austin Tomlin！
-**经典对白：**
-"It's party time!" 
 
 ## 经典语录
 
@@ -88,11 +82,9 @@ Producer and ambassador
 2. "A-R-I-Z-O-N-A!"
 3. "The party has just started!"
 
----
-
 ## 选手简介
 
 Adam Rose是WWE最欢乐的角色之一，以派对文化为核心，其醒目的荧光粉色套装和'A-R-I-Z-O-N-A'口号让人印象深刻。
 
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
 *数据来源: WWE.com & 官方资料*
