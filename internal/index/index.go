@@ -269,3 +269,59 @@ func Stats() (map[string]int, error) {
 
 	return stats, nil
 }
+// GetAllRelationships returns all relationships
+func GetAllRelationships() ([]Relationship, error) {
+	db, err := GetDB()
+	if err != nil {
+		return nil, err
+	}
+	defer db.Close()
+
+	rows, err := db.Query("SELECT id, from_entity, to_entity, type, description, chapter FROM relationships ORDER BY id")
+	if err != nil {
+		return nil, err
+	}
+	defer rows.Close()
+
+	var rels []Relationship
+	for rows.Next() {
+		var r Relationship
+		if err := rows.Scan(&r.ID, &r.FromEntity, &r.ToEntity, &r.Type, &r.Description, &r.Chapter); err != nil {
+			return nil, err
+		}
+		rels = append(rels, r)
+	}
+	return rels, rows.Err()
+}
+
+// DeleteEntity deletes an entity by ID
+func DeleteEntity(id string) error {
+	db, err := GetDB()
+	if err != nil {
+		return err
+	}
+	defer db.Close()
+
+	_, err = db.Exec("DELETE FROM relationships WHERE from_entity = ? OR to_entity = ?", id, id)
+	if err != nil {
+		return err
+	}
+	_, err = db.Exec("DELETE FROM aliases WHERE entity_id = ?", id)
+	if err != nil {
+		return err
+	}
+	_, err = db.Exec("DELETE FROM entities WHERE id = ?", id)
+	return err
+}
+
+// DeleteRelationship deletes a relationship by ID
+func DeleteRelationship(id int) error {
+	db, err := GetDB()
+	if err != nil {
+		return err
+	}
+	defer db.Close()
+
+	_, err = db.Exec("DELETE FROM relationships WHERE id = ?", id)
+	return err
+}

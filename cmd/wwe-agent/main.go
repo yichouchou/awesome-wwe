@@ -2,10 +2,10 @@ package main
 
 import (
 	"flag"
+	"strings"
 	"fmt"
 	"log"
 	"os"
-	"strings"
 
 	"github.com/yichouchou/awesome-wwe/internal/agent"
 	"github.com/yichouchou/awesome-wwe/internal/index"
@@ -13,7 +13,6 @@ import (
 )
 
 func main() {
-	// 命令行参数
 	initDB := flag.Bool("init", false, "Initialize database")
 	addEntity := flag.String("add-entity", "", "Add entity: id:type:name:tier:desc")
 	addRel := flag.String("add-rel", "", "Add relationship: from:to:type:desc:chapter")
@@ -25,7 +24,6 @@ func main() {
 	serverAddr := flag.String("addr", ":8080", "HTTP server address")
 	flag.Parse()
 
-	// 初始化数据库
 	if *initDB {
 		if err := index.InitDB(); err != nil {
 			log.Fatalf("Failed to init DB: %v", err)
@@ -34,9 +32,8 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 启动 HTTP 服务器
 	if *serverFlag {
-		srv := server.New(index.DBPath)
+		srv := server.New()
 		log.Printf("Starting WWE Agent HTTP Server on %s", *serverAddr)
 		log.Printf("Visit http://localhost%s/ to access the web UI", *serverAddr)
 		if err := srv.Run(*serverAddr); err != nil {
@@ -45,19 +42,12 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 添加实体
 	if *addEntity != "" {
 		parts := strings.Split(*addEntity, ":")
 		if len(parts) < 3 {
 			log.Fatal("Invalid format. Use: id:type:name:tier:desc")
 		}
-		e := &index.Entity{
-			ID:          parts[0],
-			Type:        parts[1],
-			Name:        parts[2],
-			Tier:        "次要",
-			Description: "",
-		}
+		e := &index.Entity{ID: parts[0], Type: parts[1], Name: parts[2], Tier: "次要", Description: ""}
 		if len(parts) > 3 {
 			e.Tier = parts[3]
 		}
@@ -71,18 +61,12 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 添加关系
 	if *addRel != "" {
 		parts := strings.Split(*addRel, ":")
 		if len(parts) < 3 {
 			log.Fatal("Invalid format. Use: from:to:type:desc:chapter")
 		}
-		r := &index.Relationship{
-			FromEntity: parts[0],
-			ToEntity:   parts[1],
-			Type:       parts[2],
-			Chapter:    0,
-		}
+		r := &index.Relationship{FromEntity: parts[0], ToEntity: parts[1], Type: parts[2], Chapter: 0}
 		if len(parts) > 3 {
 			r.Description = parts[3]
 		}
@@ -96,7 +80,6 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 查询实体
 	if *query != "" {
 		results, err := index.QueryEntities(*query)
 		if err != nil {
@@ -112,7 +95,6 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 列出所有实体
 	if *listEntities {
 		entities, err := index.ListEntities()
 		if err != nil {
@@ -124,7 +106,6 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 显示统计
 	if *stats {
 		s, err := index.Stats()
 		if err != nil {
@@ -134,13 +115,11 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 生成剧本
 	if *generate != "" {
 		a, err := agent.NewAgent(agent.WithScene(*generate))
 		if err != nil {
 			log.Fatalf("Failed to create agent: %v", err)
 		}
-
 		result, err := a.Generate()
 		if err != nil {
 			log.Fatalf("Generation failed: %v", err)
@@ -149,7 +128,6 @@ func main() {
 		os.Exit(0)
 	}
 
-	// 默认帮助
 	fmt.Println(`WWE Script Agent - Go + MiniMax-M2.7
 
 Usage:
@@ -165,14 +143,10 @@ Usage:
 
 HTTP Server:
   Visit http://localhost:8080/ to access the web UI
-  - View entities and relationships
-  - Generate screenplay via web interface
-
-Examples:
-  wwe-agent --init
-  wwe-agent --add-entity "stone_cold:角色:Stone Cold Steve Austin:核心:WWE标志性人物"
-  wwe-agent --add-rel "stone_cold:the_rock:对手:WWE黄金时代经典对决:50"
-  wwe-agent --generate "Raw第100期 Stone Cold vs The Rock"
-  wwe-agent --server
+  - Dashboard with stats
+  - Entity management (CRUD)
+  - Relationship management
+  - Script generation
+  - Search functionality
 `)
 }
