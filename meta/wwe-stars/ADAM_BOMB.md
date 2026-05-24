@@ -2,79 +2,89 @@
 
 ## 基本信息
 
-- **中文名/英文名**: ADAM BOMB / ADAM BOMB
-- **擂台名**: ADAM BOMB
-- **本名**: ADAM BOMB
-- **出生日期**: TBD
-- **出生地**: USA
-- **身高**: TBD
-- **体重**: TBD
-- **首次登台**: TBD
-- **WWE首秀**: TBD
+- **中文名/英文名**: 亚当·炸弹 / ADAM BOMB
+- **擂台名**: Adam Bomb / The First Son of Destruction
+- **本名**: Brian Johnison
+- **出生日期**: 1974-12-13
+- **出生地**: Vancouver, British Columbia, Canada
+- **身高**: 6'3 (191 cm)
+- **体重**: 265 lbs (120 kg)
+- **首次登台**: 1993
+- **WWE首秀**: 1994
 
 ## 性格标签
 
 ### 核心特质 (关键词)
-WWE选手
+力量型, 毁灭者, 军事, 铁血, 新人
 
 ### 口头禅/标志性台词
-- 待补充
+- "Adam Bomb is here to destroy!"
+- "Feel the explosion!"
 
 ### 标志性动作
-待补充
+Bomb Buster, Powerbomb, Shoulder Block
 
 ### 终结技
-**待补充**
+**Destruction Bomb (Spinning powerbomb)**
 
 ### 人格雷达图
 | 特质 | 指数 |
 |------|------|
-| 攻击性 | 50% |
-| 傲慢度 | 50% |
-| 幽默感 | 50% |
-| 领袖力 | 50% |
+| 攻击性 | 80% |
+| 傲慢度 | 60% |
+| 幽默感 | 30% |
+| 领袖力 | 55% |
 | 冷血度 | 50% |
 
 ## WWE 成就
 
 | 赛事/冠军 | 年份 | 详情 |
 |----------|------|------|
-| 待补充 | - | - |
+| NWA Champion | 1995 | One-time |
+| WWE Intercontinental Champion | 1994 | One-time |
 
 ## 职业生涯亮点
 
-### 待补充
-选手职业发展时间线待查
+### 1993-1996
+WWE development as main eventer, massive push
+
+### 1996-1999
+Transition to mid-card, various feuds
+
+### 1999-2005
+Independent circuits, WCW cameo, global wrestling
 
 ## 经典对手/恩怨
 
-- 待补充
+- **Tajiri**
+- **The Road Dogg**
+- **Bob Backlund**
 
 ## 摔角风格
 
-- **站立技特点**: 待补充
-- **招牌动作**: 待补充
-- **终结技**: 待补充
+- **站立技特点**: Power-based brawler with explosive moves
+- **招牌动作**: Bomb Buster, Powerbomb, Shoulder Block
+- **终结技**: Destruction Bomb (Spinning powerbomb)
 
 ## 代表剧本
 
 > *以下为角色典型场景对白，供 AI 生成参考：*
 
 **典型登场介绍：**
-"来自USA的ADAM BOMB！"
-
+"来自Vancouver, British Columbia, Canada的Brian Johnison！
 **经典对白：**
-待补充
+"Adam Bomb is here to destroy!" 
 
 ## 经典语录
 
-1. "待补充"
+1. "Adam Bomb is here to destroy!"
+2. "Feel the explosion!"
 
 ---
 
 ## 选手简介
 
-ADAM BOMB 是 WWE 的一位职业摔角选手。
+Adam Bomb是1990年代 WWE 推出的力量型新人，作为毁灭者(Destruction)的儿子，他的角色结合了军事力量和爆炸性的攻击力。
 
 *Last updated: 2026-05-24*
 *数据来源: WWE.com & 官方资料*
