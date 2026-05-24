@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	_ "github.com/mattn/go-sqlite3"
+	_ "modernc.org/sqlite"
 )
 
 // DBPath is the path to the database
@@ -14,14 +14,14 @@ var DBPath = filepath.Join(".wwe", "index.db")
 
 // Entity represents a WWE character/location/faction
 type Entity struct {
-	ID             string `json:"id"`
-	Type           string `json:"type"` // 角色, 势力, 地点, 物品, 招式
-	Name           string `json:"name"`
-	Tier           string `json:"tier"` // 核心, 重要, 次要, 装饰
-	Description    string `json:"desc"`
-	IsProtagonist  bool   `json:"is_protagonist"`
-	FirstChapter   int    `json:"first_chapter"`
-	LastChapter    int    `json:"last_chapter"`
+	ID            string `json:"id"`
+	Type          string `json:"type"` // 角色, 势力, 地点, 物品, 招式
+	Name          string `json:"name"`
+	Tier          string `json:"tier"` // 核心, 重要, 次要, 装饰
+	Description   string `json:"desc"`
+	IsProtagonist bool   `json:"is_protagonist"`
+	FirstChapter  int    `json:"first_chapter"`
+	LastChapter   int    `json:"last_chapter"`
 }
 
 // Relationship represents a relationship between entities
@@ -49,7 +49,7 @@ func InitDB() error {
 		return fmt.Errorf("failed to create directory: %w", err)
 	}
 
-	db, err := sql.Open("sqlite3", DBPath)
+	db, err := sql.Open("sqlite", DBPath)
 	if err != nil {
 		return fmt.Errorf("failed to open database: %w", err)
 	}
@@ -115,7 +115,7 @@ func InitDB() error {
 
 // GetDB returns a database connection
 func GetDB() (*sql.DB, error) {
-	return sql.Open("sqlite3", DBPath)
+	return sql.Open("sqlite", DBPath)
 }
 
 // AddEntity adds a new entity
@@ -269,6 +269,7 @@ func Stats() (map[string]int, error) {
 
 	return stats, nil
 }
+
 // GetAllRelationships returns all relationships
 func GetAllRelationships() ([]Relationship, error) {
 	db, err := GetDB()
