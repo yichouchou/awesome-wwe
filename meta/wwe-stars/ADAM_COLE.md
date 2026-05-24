@@ -2,30 +2,101 @@
 
 ## 基本信息
 
-- **名称**: ADAM COLE
-- **ID**: ADAM_COLE
-- **层级**: 其他
-- **分类**: WWE 选手
+- **中文名/英文名**: 亚当科尔 / ADAM COLE
+- **擂台名**: Adam Cole / Unaturally Green
+- **本名**: Adam Joseph Cole
+- **出生日期**: 1989-04-25
+- **出生地**: Orlando, Florida, USA
+- **身高**: 5'10 (178 cm)
+- **体重**: 200 lbs (91 kg)
+- **首次登台**: 2008
+- **WWE首秀**: 2017
 
-## 简介
+## 性格标签
 
-ADAM COLE 是 WWE 的一位职业摔角选手。
+### 核心特质 (关键词)
+首领气质, 魅力超凡, 技术型, BayBay, 王者
 
-## WWE 生涯
+### 口头禅/标志性台词
+- "Boom!"
+- "BayBay!"
+- "Adam Cole... BayBay!"
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 标志性动作
+Panama Sunrise, Last Shot, Enzuigiri, Shining Wizard
 
-## 动作特点
+### 终结技
+**Boom - Last Shot**
 
-待补充
+### 人格雷达图
+| 特质 | 指数 |
+|------|------|
+| 攻击性 | 75% |
+| 傲慢度 | 85% |
+| 幽默感 | 70% |
+| 领袖力 | 95% |
+| 冷血度 | 50% |
 
-## 经典比赛
+## WWE 成就
 
-待补充
+| 赛事/冠军 | 年份 | 详情 |
+|----------|------|------|
+| NXT Champion | 2017-2019 | Three-time, longest reign 403 days |
+| NXT North American Champion | 2019 | One-time |
+| WWEC Champion | 2019 | One-time |
+| Undisputed Tag Team Champion | 2023 | with Frankie Garner |
+
+## 职业生涯亮点
+
+### 2008-2015
+ROH, FIP, developing character
+
+### 2015-2017
+NXT debut, #DIY rivalry, NXT Champion 403 days
+
+### 2017-2021
+Main roster, UE founding
+
+### 2021-2024
+NXT 2.0 return, leader
+
+### 2024-2026
+Raw, top of mountain
+
+## 经典对手/恩怨
+
+- **Johnny Gargano**
+- **Velveteen Dream**
+- **Pete Dunne**
+- **Pat McAfee**
+
+## 摔角风格
+
+- **站立技特点**: Striking technical, catch-as-catch-can grappling
+- **招牌动作**: Panama Sunrise, Last Shot, Enzuigiri, Shining Wizard
+- **终结技**: Boom - Last Shot
+
+## 代表剧本
+
+> *以下为角色典型场景对白，供 AI 生成参考：*
+
+**典型登场介绍：**
+"站在你们面前的是Adam Cole / Unaturally Green！来自Orlando, Florida, USA的Adam Joseph Cole！"
+
+**经典对白：**
+Boom!
+
+## 经典语录
+
+1. "Boom!"
+2. "BayBay!"
+3. "Adam Cole... BayBay!"
 
 ---
 
-*Generated from WWE.com talent list*
+## 选手简介
+
+Adam Cole是当代最具魅力的反派领袖，Boom! BayBay!已成为职业摔角文化的一部分。
+
 *Last updated: 2026-05-24*
+*数据来源: WWE.com & 官方资料*
