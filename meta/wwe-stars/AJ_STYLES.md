@@ -2,105 +2,79 @@
 
 ## 基本信息
 
-- **中文名/英文名**: AJ斯泰尔斯 / AJ STYLES
-- **擂台名**: AJ Styles / Phenomenal One
-- **本名**: Allen Neal Jones
-- **出生日期**: 1977-06-2
-- **出生地**: Jacksonville, North Carolina, USA
-- **身高**: 5'11 (180 cm)
-- **体重**: 218 lbs (99 kg)
-- **首次登台**: 1999
-- **WWE首秀**: 2016
+- **中文名/英文名**: AJ STYLES / AJ STYLES
+- **擂台名**: AJ STYLES
+- **本名**: AJ STYLES
+- **出生日期**: TBD
+- **出生地**: USA
+- **身高**: TBD
+- **体重**: TBD
+- **首次登台**: TBD
+- **WWE首秀**: TBD
 
 ## 性格标签
 
 ### 核心特质 (关键词)
-技术型, 高飞, 爆发力, 领袖气质, 狂热
+WWE选手
 
 ### 口头禅/标志性台词
-- "The Phenomenal One!"
-- "I'm the brand!"
-- "Phenomenal is the game!"
+- 待补充
 
 ### 标志性动作
-Calm Before the Storm, Phenomenal Forearm, Stylin' DDT
+待补充
 
 ### 终结技
-**Styles Clash**
+**待补充**
 
 ### 人格雷达图
 | 特质 | 指数 |
 |------|------|
-| 攻击性 | 75% |
-| 傲慢度 | 60% |
+| 攻击性 | 50% |
+| 傲慢度 | 50% |
 | 幽默感 | 50% |
-| 领袖力 | 85% |
-| 冷血度 | 40% |
+| 领袖力 | 50% |
+| 冷血度 | 50% |
 
 ## WWE 成就
 
 | 赛事/冠军 | 年份 | 详情 |
 |----------|------|------|
-| WWE Championship | 2016 | First reign |
-| WWE Champion | 2019 | Second reign |
-| IC Champion | 2016-2017 | Two-time |
-| Raw Tag Team Champion | 2019 | with Seth Rollins |
-| Andre the Giant Memorial | 2016 | Winner |
+| 待补充 | - | - |
 
 ## 职业生涯亮点
 
-### 1999-2002
-TNA/Independent circuits, developed signature style
-
-### 2002-2006
-TNA founding member, X Division pioneer
-
-### 2006-2014
-TNA World Heavyweight Champion multiple times
-
-### 2014-2015
-NJPW, IWGP Heavyweight Champion
-
-### 2016-2019
-WWE debut, WWE Champion, IC Champion
-
-### 2020-2023
-Main event player
+### 待补充
+选手职业发展时间线待查
 
 ## 经典对手/恩怨
 
-- **John Cena**
-- **Shinsuke Nakamura**
-- **Seth Rollins**
-- **Roman Reigns**
+- 待补充
 
 ## 摔角风格
 
-- **站立技特点**: High-flying technical hybrid, exceptional mat work
-- **招牌动作**: Calm Before the Storm, Phenomenal Forearm, Stylin' DDT
-- **终结技**: Styles Clash
+- **站立技特点**: 待补充
+- **招牌动作**: 待补充
+- **终结技**: 待补充
 
 ## 代表剧本
 
 > *以下为角色典型场景对白，供 AI 生成参考：*
 
 **典型登场介绍：**
-"站在你们面前的是AJ Styles / Phenomenal One！来自Jacksonville, North Carolina, USA的Allen Neal Jones！"
+"来自USA的AJ STYLES！"
 
 **经典对白：**
-The Phenomenal One!
+待补充
 
 ## 经典语录
 
-1. "The Phenomenal One!"
-2. "I'm the brand!"
-3. "Phenomenal is the game!"
+1. "待补充"
 
 ---
 
 ## 选手简介
 
-AJ Styles是现代摔角界最全面的选手之一，以技术精湛、高飞动作和爆发力著称。首位同时拥有TNA、NJPW、WWE三大冠军的选手。
+AJ STYLES 是 WWE 的一位职业摔角选手。
 
 *Last updated: 2026-05-24*
 *数据来源: WWE.com & 官方资料*
