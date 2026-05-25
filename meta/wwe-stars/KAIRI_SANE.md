@@ -1,31 +1,56 @@
 # KAIRI SANE
 
 ## 基本信息
+- **本名**: Mio Haciro (桥本 实生)
+- **擂台名**: KAIRI SANE
+- **出生**: 1988年3月9日 Japan 日本
+- **身高**: 163cm
+- **体重**: 54kg
+- **摔角出道**: 2012年
 
-- **名称**: KAIRI SANE
-- **ID**: KAIRI_SANE
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+海盗、凶猛、高空打击、热情
 
-## 简介
+### 口头禅/标志性台词
+"Welcome to the Sane Show!" / "I'm a pirate!"
 
-KAIRI SANE 是 WWE 的一位职业摔角选手。
+### 标志性动作
+高空飞扑、海盗式挥手、呐喊庆祝
 
-## WWE 生涯
+### 终结技
+Insane Elbow（疯狂肘击）、Sentinel (DDT)
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+攻击性: ★★★☆☆
+技术性: ★★★★☆
+速度: ★★★★★
+幽默感: ★★★★☆
+擂台气场: ★★★☆☆
 
-## 动作特点
+## WWE 成就
+- WWE Women's Tag Team Champion (with Io Shirai)
+- NXT Women's Tag Team Champion (2x)
 
-待补充
+## 职业生涯时间线
+### 2012 选手出道 (日本 Stardom)
+### 2017-2019 NXT/WWE
+### 2020-2021 主节目
+### 2022至今 WWE/NXT (间歇出场)
 
-## 经典比赛
+## 经典对手/恩怨
+Io Shirai、Asuka、Bayley
 
-待补充
+## 摔角风格
+- **站立技特点**: 拳击、肘击为主，节奏感强
+- **招牌动作**: 侧踢、喉结踢
+- **终结技**: Insane Elbow（助跑肘击）、Sentinel (抱摔式 DDT)
 
----
+## 经典语录
+"Welcome to my show! I'm a pirate and I will steal the victory!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+KAIRI SANE 是来自日本的前 Stardom 明星，以"海盗摔角手"形象闻名。她的 Insane Elbow（疯狂肘击）极具观赏性，是 NXT 最受欢迎的女子选手之一。2017年加入 WWE，在 NXT 期间与 Io Shirai 组成双子组合，曾两次夺得 NXT 女子双打冠军。2020年升至主节目，继续以海盗风格征服观众。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

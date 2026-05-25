@@ -1,31 +1,58 @@
 # KASSIUS OHNO
 
 ## 基本信息
+- **本名**: Claudio Castagnoli
+- **擂台名**: KASSIUS OHNO
+- **出生**: 1981年2月13日 瑞士
+- **身高**: 188cm
+- **体重**: 99kg
+- **绰号**: The Renaissance Man / King of the Indies
+- **摔角出道**: 2000年
 
-- **名称**: KASSIUS OHNO
-- **ID**: KASSIUS_OHNO
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+古典、技术流、冷酷、优雅
 
-## 简介
+### 口头禅/标志性台词
+"The renaissance begins now."
 
-KASSIUS OHNO 是 WWE 的一位职业摔角选手。
+### 标志性动作
+欧洲_uppercut、优雅步伐
 
-## WWE 生涯
+### 终结技
+Renaissance Trigger (连续上击)、Cravate (围巾式固定)
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+攻击性: ★★★☆☆
+力量: ★★★★☆
+技术性: ★★★★★
+速度: ★★★★☆
+擂台气场: ★★★★☆
 
-## 动作特点
+## WWE 成就
+- NXT Tag Team Champion (with Chris Hero as The Castagnoli & Hero)
+- PWG World Champion
+- CHIKARA Tag Team Champion
 
-待补充
+## 职业生涯时间线
+### 2000 选手出道 (欧洲独立圈)
+### 2002-2012 德国/日本/美国独立圈
+### 2012-2013 WWE (首次)
+### 2017-2018 WWE NXT (回归)
 
-## 经典比赛
+## 经典对手/恩怨
+Bryan Danielson、CM Punk、AJ Styles
 
-待补充
+## 摔角风格
+- **站立技特点**: 古典欧洲摔角风格，以上击和腕锁为主
+- **招牌动作**: European Uppercut、Cravate 固定
+- **终结技**: Renaissance Trigger (连续上击组合)、Cravate
 
----
+## 经典语录
+"I am Kassius Ohno. The renaissance has arrived."
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+KASSIUS OHNO 是 WWE 最受敬仰的技术型选手之一，由瑞士出生的 Claudio Castagnoli 饰演。他被认为是独立摔角界最好的选手之一，与 Bryan Danielson (现任 Daniel Bryan) 并称"ROH 双杰"。他的擂台风格融合了古典欧洲摔角的精准与职业摔角的戏剧性。2012年曾短暂效力 WWE，2017年以 NXT 选手身份回归，但始终未能获得预期的上位机会。2022年转战 AEW。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

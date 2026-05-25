@@ -1,102 +1,66 @@
-# Logan Paul
+# LOGAN PAUL
 
 ## 基本信息
-
-- **中文名**: 洛根·保罗
-- **英文全名**: Logan Paul
-- **出生日期**: 1995年4月23日
-- **出生地**: 美国俄亥俄州韦斯特维尔
-- **身高**: 6'2" (188 cm)
-- **体重**: 210 lbs (95 kg)
-- **职业生涯**: 2021-至今
-- **别名**: The Maverick, The Prime
+- **擂台名**: Logan Paul
+- **本名**: Logan Paul
+- **出生**: 1995年4月23日 | 俄亥俄州韦斯特维尔
+- **身高**: 6'2" (188cm)
+- **体重**: 210 lbs (95kg)
+- **WWE首秀**: 2021年
 
 ## 性格标签
+### 核心特质 (关键词)
+跨界、自信、表演天赋、挑衅、Maverick
 
-- **核心特质**: 自信、跨界、表演天赋、挑衅
-- **标志性动作**: Splash Mountain
-- **职业**: YouTuber / 职业摔角手双重身份
+### 口头禅/标志性台词
+"The Prime has arrived!" / "I'm not a wrestler, I'm a champion!"
 
-### 人格分析
+### 标志性动作
+跳跃攻击、挑衅手势、流量控制
 
-```
-自信指数: ★★★★★☆
-跨界能力: ★★★★☆
-反派度:   ★★★★☆
-表演能力: ★★★★★
-争议性:   ★★★★☆
-```
+### 终结技
+Splash Mountain（滚动萨瓦特踢）
+
+### 人格雷达图
+进攻: ★★★★ | 技术: ★★★ | 娱乐: ★★★★★ | 力量: ★★★★ | 速度: ★★★★
 
 ## WWE 成就
+- WWE United States Champion（2023年SummerSlam）
+- 2022年Crown Jewel参赛者
+- WrestleMania 39 US Championship挑战者
 
-| 赛事 | 年份 | 成就 |
-|-----|------|------|
-| Crown Jewel | 2022 | 未能获得 WWE Title |
-| WrestleMania 39 | 2023 | US Championship 对决 |
-| SummerSlam | 2023 | US Champion |
+## 职业生涯时间线
+### 2021-2022
+WWE首秀，迅速学习摔角技术
 
-## 职业生涯亮点
+### 2022
+Crown Jewel大赛，首次冠军挑战
 
-### 2021-2022: 跨界入门
-- 2021年 WWE 首秀
-- 与 KSI 的跨界纠纷
-- 迅速学习摔角技术
+### 2023
+WrestleMania 39 vs US Champion，SummerSlam获得US Championship
 
-### 2023: US Champion
-- SummerSlam 2023 获得 US Championship
-- 与其他冠军的对抗
-- 跨界娱乐背景带来新观众
+### 2023-2024
+US Championship剧情，与LA Knight恩怨
 
-### 2024-2025: 持续活跃
-- US Championship 剧情
-- 与 LA Knight 的恩怨
-- 继续 both boxing 和 WWE
+### 2024-至今
+持续活跃，同时发展YouTube和拳击事业
 
-## 经典对手
-
-- **LA Knight**: US Championship 恩怨
-- **KSI**: Boxing 对决
-- **Floyd Mayweather**: Boxing 对决
-- **Roman Reigns**: 冠军挑战
+## 经典对手/恩怨
+- LA Knight（US Championship恩怨）
+- Roman Reigns（冠军挑战）
+- KSI（跨界拳击恩怨）
+- Floyd Mayweather（拳击对决）
 
 ## 摔角风格
-
-- **站立技**: 运动能力强，拳法精准
-- **摔技**: Dive, 跳跃攻击
-- **终结技**: Splash Mountain (rolling savate kick)
-- **特色**: 跨界经验，表演能力
-
-## 代表剧本
-
-```
-场景: US Championship, SummerSlam 2023
-
-Logan: (站在擂台中央) "你们都问我——一个 YouTuber，
-         凭什么在 WWE？
-
-         我告诉你凭什么。"
-
-[观众议论]
-
-Logan: "因为我有数百万的粉丝。
-         因为我每一场比赛都是头条。
-         因为我——是 The Maverick。"
-
-[观众高呼 LOGAN! LOGAN!]
-
-Logan: "你们可以讨厌我。你们可以嘲笑我。
-         但是你们不能否认——我是这个时代最闪亮的新星。"
-```
+- **站立技特点**: 运动能力强，拳法精准，跨界经验
+- **招牌动作**: 跳跃攻击、Splash Mountain
+- **终结技**: Splash Mountain（滚动萨瓦特踢）
 
 ## 经典语录
+"I'm not a wrestler. I'm a champion. There's a difference."
 
-> "I'm not a wrestler. I'm a champion. There's a difference."
+## 选手简介
+Logan Paul是WWE最具争议和话题性的跨界明星之一。从YouTube顶流到职业摔角手，他以出色的运动天赋和强大的流量控制能力迅速在WWE站稳脚跟。2023年SummerSlam获得United States Champion证明了他不只是来玩票的。尽管争议不断，他的表演能力和自信态度使他成为WWE最受欢迎的选手之一。
 
-> "I didn't come here to be liked. I came here to be champion."
-
-> "The Prime has arrived, and the legacy begins."
-
----
-
-*Last updated: 2026-05-24*
-*Status: Active US Champion / crossover star*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

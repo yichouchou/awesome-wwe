@@ -1,31 +1,55 @@
 # GIANT GONZALES
 
 ## 基本信息
+- **本名**: Jorge "George" Gonzalez
+- **出生日期**: 1957年3月21日
+- **出生地**: 美国德克萨斯州
+- **身高**: 7'7" (231 cm)
+- **体重**: 380 lbs (172 kg)
+- **职业生涯**: 1989-2003
+- **擂台名**: Giant Gonzalez / The Big Steel
 
-- **名称**: GIANT GONZALES
-- **ID**: GIANT_GONZALES
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+巨人选手、NBA背景、WWE短暂、WrestleMania经典
+### 口头禅/标志性台词
+（极少说话，以动作表达）
+### 标志性动作
+巨大的手掌拍击、压制时用手掌覆盖对手全身
+### 终结技
+Chokeslam / 巨大身影压制
+### 人格雷达图
+```
+身高:     ★★★★★★
+力量:     ★★★★★
+稀有度:   ★★★★★☆
+技术:     ★☆☆☆☆
+ WWE寿命: ★★☆☆☆
+```
 
-## 简介
+## WWE 成就
+- **WrestleMania IX**: 与The Undertaker经典对决
 
-GIANT GONZALES 是 WWE 的一位职业摔角选手。
+## 职业生涯时间线
+### 1989-1992: 巨人族新秀
+### 1992-1993: WWF赛季，与Undertaker对决WrestleMania IX
+### 1993-1995: WCW短期合同
+### 1995-2003: 退休，NBA集锦片段
 
-## WWE 生涯
+## 经典对手/恩怨
+- **The Undertaker**: WrestleMania IX历史性对决
+- **The Great Muta**: 天皇巨星对决
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+## 摔角风格
+- **站立技特点**: 笨重但有力量，以体型压人为主
+- **招牌动作**: Chokeslam、巨大巴掌、踩踏
+- **终结技**: Giant Press（巨大身体压制）
 
-## 动作特点
+## 经典语录
+> （无代表性台词——以沉默巨人形象著称）
 
-待补充
+## 选手简介
+Giant Gonzales（原名George Gonzalez）是WWE历史上最高的选手之一，身高达7尺7寸，曾有NBA球员背景。他最著名的是在WrestleMania IX与The Undertaker的对决，该场比赛因Undertaker的浮尸形象而成为经典。Gonzales体型巨大但技术有限，在WWE的时间较短，2003年因心脏病去世，享年45岁。
 
-## 经典比赛
-
-待补充
-
----
-
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

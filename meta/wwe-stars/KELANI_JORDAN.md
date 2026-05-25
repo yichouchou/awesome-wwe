@@ -1,31 +1,49 @@
 # KELANI JORDAN
 
 ## 基本信息
+- **本名**: Kelani Jordan
+- **擂台名**: KELANI JORDAN
+- **出生**: 1999年 美国
+- **身高**: 168cm
+- **体重**: 62kg
+- **绰号**: The Jordan
+- **摔角出道**: 2018年
 
-- **名称**: KELANI JORDAN
-- **ID**: KELANI_JORDAN
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+优雅、强势、运动天赋、领袖气质
 
-## 简介
+### 口头禅/标志性台词
+"Jordan is in the house!"
 
-KELANI JORDAN 是 WWE 的一位职业摔角选手。
+### 标志性动作
+开场跳跃、交叉交叉
 
-## WWE 生涯
+### 终结技
+Jordan's Destiny (足锁)
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+## WWE 成就
+- WWE Cuties Champion (2024)
+- NXT Women's Breakout Tournament 参与者
 
-## 动作特点
+## 职业生涯时间线
+### 2018 选手出道 (独立圈)
+### 2023 WWE NXT 首秀
+### 2024 WWE 主节目 (Cuties)
 
-待补充
+## 经典对手/恩怨
+Jacy Jayne、Thea Hail
 
-## 经典比赛
+## 摔角风格
+- **站立技特点**: 运动感强、跳跃动作多
+- **招牌动作**: 交叉足踢、侧空翻
+- **终结技**: Jordan's Destiny (足部固定)
 
-待补充
+## 经典语录
+"The Jordan is taking over!"
 
----
+## 选手简介
+KELANI JORDAN 是 WWE 新生代女子选手的代表，以其出色的运动天赋和多变的擂台风格吸引了众多关注。2023年加入 NXT，很快在女子组别中脱颖而出。2024年获得 WWE Cuties 冠军，成为 WWE 女子组别的未来之星。她的擂台风格融合了体操运动员的优雅和摔角手的强势。
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

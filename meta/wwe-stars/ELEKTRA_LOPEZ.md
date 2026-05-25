@@ -1,31 +1,58 @@
 # ELEKTRA LOPEZ
 
 ## 基本信息
+- **本名**: Joseline "Josie" Lopez
+- **出生**: 1997年5月19日，波多黎各
+- **擂台名**: Elektra Lopez / Konnan（早期）等
+- **身高**: 5英尺7英寸（170cm）
+- **体重**: 150磅（68kg）
+- **身份**: WWE NXT女子选手
 
-- **名称**: ELEKTRA LOPEZ
-- **ID**: ELEKTRA_LOPEZ
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+高冷御姐、拉丁风情、团队领袖、强势
 
-## 简介
+### 口头禅/标志性台词
+"Legado del Fantasma，永远忠诚！"
 
-ELEKTRA LOPEZ 是 WWE 的一位职业摔角选手。
+### 标志性动作
+甩发动感手势，与队员同步舞蹈
 
-## WWE 生涯
+### 终结技
+椅式炸弹摔（Chair Bomb）
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量: ★★★☆☆ | 技巧: ★★★☆☆ | 速度: ★★★★☆ | 耐力: ★★★☆☆ | 气场: ★★★★☆
 
-## 动作特点
+## WWE 成就
+- Legado del Fantasma（NXT）核心成员
+- WWE NXT女子选手
 
-待补充
+## 职业生涯时间线
+### 2018
+在NXT UK开始摔角生涯
 
-## 经典比赛
+### 2021
+加入NXT，成为Legado del Fantasma固定成员
 
-待补充
+### 2022-至今
+在NXT 2.0持续活跃，与队内选手共同对抗The Dyad等敌对组合
 
----
+## 经典对手/恩怨
+- The Dyad（Jakara Jackson & Fallon Henley）
+- Alba Creek & Isla Dawn（NXT UK时期）
+- Toxic Attraction
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 摔角风格
+- **站立技特点**: 拉丁系动感摔角，以踢击和速度见长
+- **招牌动作**: 高踢、旋转攻击
+- **终结技**: 椅式炸弹摔（Chair Bomb）
+
+## 经典语录
+"Legado del Fantasma永远不可战胜！"
+
+## 选手简介
+Elektra Lopez是WWE NXT拉丁裔团队Legado del Fantasma的核心成员，以高冷的御姐气质和强悍的擂台风格著称。她与Santos Escobar等选手组成的团队在NXT 2.0时期成为标志性势力。Elektra不仅在擂台上表现出色，其充满拉丁风情的个性也让她成为WWE国际市场中极具辨识度的女子选手。
+
+*Last updated: 2026-05-25*
+*数据来源: WWE官方资料*
