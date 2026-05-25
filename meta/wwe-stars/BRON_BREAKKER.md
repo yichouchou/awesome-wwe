@@ -1,103 +1,66 @@
-# Bron Breakker
+# BRON BREAKKER
 
 ## 基本信息
-
-- **中文名**: 布朗·布雷克
-- **英文全名**: Bron Breakker (本名 Joseph Grindley)
-- **出生日期**: 1997年12月21日
-- **出生地**: 美国威斯康星州
-- **身高**: 6'3" (191 cm)
-- **体重**: 245 lbs (111 kg)
-- **职业生涯**: 2018-至今
-- **别名**: The Wrath of Breakker, NXT's Next Big Thing
+- **本名**: Joseph Grindley
+- **擂台名**: Bron Breakker / "The Wrath of Breakker"
+- **出生**: 1997年12月21日，美国威斯康星州
+- **身高**: 6 ft 3 in (191 cm)
+- **体重**: 245 lb (111 kg)
+- **擂台形象**: 力量型、NXT 未来之星
+- **出道**: 2018年
 
 ## 性格标签
+### 核心特质 (关键词)
+Raw Power、毁灭性、年轻力量、NXT 未来、复仇之心
 
-- **核心特质**: 力量、破坏、年轻活力、Raw Power
-- **标志性动作**: Spectacular Breakker Powerslam
-- **擂台风格**: 强力型，代表下一个时代
+### 口头禅/标志性台词
+"I'm not the future. I'm the present."
+"The Wrath of Breakker is coming."
 
-### 人格分析
+### 标志性动作
+Spectacular Breakker Powerslam、快速奔跑撞人
 
-```
-力量指数: ★★★★★☆
-破坏力:   ★★★★★
-反派度:   ★★★☆☆
-潜力指数: ★★★★★
-Raw Power: ★★★★★☆
-```
+### 终结技
+Spectacular Breakker Powerslam (强力过肩摔)
+
+### 人格雷达图
+- 技术: ★★★
+- 力量: ★★★★★
+- 速度: ★★★★
+- 耐力: ★★★★★
+- 幽默: ★★
 
 ## WWE 成就
+- NXT 冠军 (2次：2022, 2024)
+- NXT 北美冠军 (1次)
+- NXT 最具潜力新星
 
-| 赛事 | 年份 | 成就 |
-|-----|------|------|
-| NXT | 2022, 2024 | NXT Champion (两次) |
-| NXT | 2023 | NXT North American Champion |
-| Stand & Deliver | 2024 | NXT Champion |
+## 职业生涯时间线
+- 2018: 出道于 independent circuits
+- 2021: 加入 WWE Performance Center
+- 2021: NXT 首秀
+- 2022: 首次获得 NXT 冠军
+- 2023: 获得 NXT 北美冠军
+- 2024: 回归再次获得 NXT 冠军
+- 2024: 在 Stand & Deliver 击败 Ilja Dragunov
 
-## 职业生涯亮点
-
-### 2018-2022: NXT 发展
-- WWE Performance Center 训练
-- 2021年 NXT 首秀
-- 被称为 "The Wrath of Breakker"
-
-### 2022-2024: NXT Champion
-- 2022年首次 NXT Champion
-- 与 Von Erichs 的剧情
-- 2024年回归再次夺冠
-
-### 2024-2025: 升级准备
-- 持续 NXT 冠军水平
-- 准备转入主阵容
-- 被认为是下一个 top star
-
-## 经典对手
-
-- **Carmelo Hayes**: NXT Championship 对决
-- **Von Erichs (Marshall, Ross, Zachary)**: 家族剧情
-- **Ilja Dragunov**: 经典对决
-- **Trick Williams**: 冠军争夺
+## 经典对手/恩怨
+- Carmelo Hayes (NXT 冠军争夺)
+- Von Erichs 家族 (剧情恩怨)
+- Ilja Dragunov (经典对决)
+- Trick Williams (冠军争夺)
 
 ## 摔角风格
-
-- **站立技**: Raw Power 拳法，压制性
-- **摔技**: Powerbomb, Spear, Spinebuster
-- **终结技**: Spectacular Breakker Powerslam
-- **特色**: 力量型，年轻有潜力
-
-## 代表剧本
-
-```
-场景: NXT Championship, 2024
-
-Bron: (走向擂台，注视对手) "你知道我为什么在这里吗？
-
-      因为在这个世界上，只有两种人——"
-
-[停顿]
-
-Bron: "一种是打破规则的人。
-
-       另一种是被规则打破的人。"
-
-[观众欢呼]
-
-Bron: "I am the Wrath of Breakker.
-       我不是来适应系统的。
-
-       我是来摧毁系统的。"
-```
+- **站立技特点**: 力量压制型，以 Raw Power 直接冲撞为主。
+- **招牌动作**: Spectacular Breakker Powerslam、快速奔跑撞人。
+- **终结技**: Spectacular Breakker Powerslam。
 
 ## 经典语录
+"I'm not the future. I'm the present."
+"You can try to break me, but Breakker doesn't break."
 
-> "I'm not the future. I'm the present."
+## 选手简介
+Bron Breakker 是 WWE 当前最具潜力的年轻选手之一，以毁灭性的力量型风格著称。他在 NXT 的崛起被视为下一个时代的开始。两次 NXT 冠军和一次北美冠军的成绩证明了他的统治力。被 WWE 高层视为未来 main roster 的顶梁柱。
 
-> "The Wrath of Breakker is coming, and there's no stopping it."
-
-> "You can try to break me, but Breakker doesn't break."
-
----
-
-*Last updated: 2026-05-24*
-*Status: Active NXT Champion, future main roster star*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*
