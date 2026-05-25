@@ -1,4 +1,4 @@
-# UNDERTAKER
+# THE UNDERTAKER
 
 ## 基本信息
 - **中文名/英文名**: 送葬者 / The Undertaker
@@ -53,7 +53,7 @@
 在 Survivor Series 首次亮相WWE，神秘黑袍形象登场
 
 ### 1991-1998
-"WrestleMania王朝"开启，Brothers连胜神话启动；与Mankind、Smart的经典剧情
+"WrestleMania王朝"开启，Broke the streak连胜神话启动；与Mankind、Smart的经典剧情
 
 ### 1999-2003
 转为正派"American Bad Ass"，参与公司股权争夺剧情
@@ -62,7 +62,7 @@
 回归"Deadman"形象，与艾吉、兰迪·奥顿、肖恩·迈克尔斯展开经典恩怨
 
 ### 2011-2013
-与Triple H、Brock Lesnar的传奇坟墓大战；摔角狂热29被布洛克终结21连胜
+与Triple H、 Brock Lesnar的传奇坟墓大战；摔角狂热29被布洛克终结21连胜
 
 ### 2015-2020
 最后王朝期，神秘强化剧情，2020年在摔角狂热36对战AJ Styles后宣布退役
