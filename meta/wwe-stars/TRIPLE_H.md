@@ -1,138 +1,91 @@
-# Triple H (Paul Levesque)
+# TRIPLE H
 
 ## 基本信息
-
-- **中文名**: Triple H
-- **英文全名**: Paul Michael Levesque
-- **WWE 擂台名**: Triple H, The Game
-- **出生日期**: 1969年7月27日
-- **出生地**: 美国新罕布什尔州纳舒厄
-- **身高**: 6'4" (193 cm)
+- **中文名/英文名**: 三重威胁 / Triple H
+- **擂台名**: Triple H / The Game / The King of Kings / The Cerebral Assassin
+- **本名**: Paul Michael Levesque
+- **出生日期**: 1969-07-27
+- **出生地**: Nashua, New Hampshire, USA
+- **身高**: 6'4 (193 cm)
 - **体重**: 255 lbs (116 kg)
-- **职业生涯**: 1993-至今
+- **首次登台**: 1993
+- **WWE首秀**: 1995
 
-## 角色特点
+## 性格标签
+### 核心特质 (关键词)
+操控, 野心, 权力, 谋略, 耐心, 顶级反派
 
-### 性格标签
+### 口头禅/标志性台词
+- "I am The Game！"
+- "我是诸王之王！"
+- "在这个行业里，只有权力才是永恒的！"
 
-- **核心特质**: 操控、野心、耐心、权力追求
-- **别名**: The Game, The King of Kings, The Cerebral Assassin
-- **标志性动作**: Pedigree (双脚砸背)
+### 标志性动作
+Pedigree（双脚砸背）, Spinebuster（脊桥摔）
 
-### 人格分析
+### 终结技
+**Pedigree** — 双脚砸背（The pedig
 
-```
-谋略指数: ★★★★★☆
-权力指数: ★★★★★☆
-摔角技术: ★★★★☆
-反派度:   ★★★★☆
-剧情控制: ★★★★★
-```
+### 人格雷达图
+| 特质 | 指数 |
+|------|------|
+| 谋略指数 | 95% |
+| 权力欲望 | 98% |
+| 摔角技术 | 88% |
+| 反派度 | 90% |
+| 剧情控制 | 99% |
 
 ## WWE 成就
 
-| 赛事 | 年份 | 成就 |
-|-----|------|------|
-| WrestleMania X-Seven | 2001 | World Heavyweight Champion |
-| WrestleMania X-8 | 2002 | Undisputed Champion |
-| WrestleMania XXI | 2005 | World Heavyweight Champion |
-| WrestleMania XXII | 2006 | World Heavyweight Champion |
-| King of the Ring | 1997 | 冠军 |
+| 赛事/冠军 | 次数 | 年份 |
+|----------|------|------|
+| WWE世界冠军 | 14次 | 1999-2019 |
+| 世界重量级冠军 | 5次 | — |
+| Intercontinental冠军 | 5次 | — |
+| 皇家大战优胜 | 2次 | 2016, 2019 |
+| WWE COO | — | 2013至今 |
 
-## 职业生涯亮点
+## 职业生涯时间线
+### 1995
+以Hunter Hearst Helmsley身份登陆WWF
 
-### 1995-1999: 早期 + DX
-- 作为 Hunter Hearst Helmsley (法国贵族角色)
-- Degeneration X (DX) 联合创始人
-- 与 Shawn Michaels 的反叛派系
+### 1997
+创立DX，与Shawn Michaels成为反叛核心
 
-### 1999-2002: Evolution 时代
-- 创立 Evolution (Ric Flair, Randy Orton, Batista)
-- "McMahon-Helmsley Era" 剧情
-- 与 Stephanie McMahon 的婚礼剧情线
+### 1999
+创立Evolution，与Ric Flair、Randy Orton、Batista联盟
 
-### 2002-2010: 巅峰期
-- World Heavyweight Champion 多次
-- 长期作为顶级反派
-- 伤病恢复后的回归
+### 2001
+McMahon-Helmsley Era，夺得WWE冠军
 
-### 2010-至今: 后期
-- 减少比赛，专注剧情
-- WWE COO (首席运营官) 角色
-- Evolution 重组剧情
+### 2004
+与Stephanie McMahon结婚剧情（现实结婚）
 
-## 经典对手
+### 2013
+成为WWE首席运营官（COO）
 
-- **Stone Cold Steve Austin**: DX vs Corporation 剧情
-- **Shawn Michaels**: DX 内部矛盾，长期恩怨
-- **The Rock**: 多次冠军争夺
-- **Mick Foley**: 经典 Pedigree vs Cactus Jack
-- **Chris Jericho**: 多次剧情对抗
+### 2016-2019
+回归擂台，再夺冠军
+
+## 经典对手/恩怨
+- **Stone Cold Steve Austin** — DX vs Corporation世纪对决
+- **Shawn Michaels** — DX内部恩怨，经典回归战
+- **The Rock** — 多次冠军争夺
+- **Mick Foley** — Pedigree vs Cactus Jack
+- **D-Generation X vs The McMahons** — 贯穿多年的经典剧情
 
 ## 摔角风格
-
-- **站立技**: 技术性打法，冷静分析
-- **摔技**: Spinebuster, Pedigree
-- **终结技**: Pedigree (双脚砸背)
-- **特色**: 节奏控制能力强，擅长 slow burn 剧情
-
-## 性格特点 (角色设定)
-
-- 极度有耐心 (剧情上)
-- 权力欲望强
-- 操控型反派
-- 学术派摔角 (技术型)
-- 真实身份：户外运动爱好者，好父亲
-
-## 与 Stephanie McMahon 剧情线
-
-```
-场景: Raw 擂台，1999
-
-Triple H: (跪地求婚) "Stephanie, 嫁给我吧。
-            我会给你一个帝国。"
-
-Stephanie: (哭泣) "Yes!"
-
-[全场震惊]
-
-Vince McMahon: "NOOOOOOO!"
-```
-
-## 代表剧本
-
-```
-场景: RAW, 2000 "McMahon-Helmsley Era"
-
-Triple H: (坐在办公桌后) "在这个行业里，
-          没有永远的朋友，也没有永远的敌人。
-          只有永恒的利益。"
-
-Triple H: "你以为你是谁？告诉我——有谁
-          能阻止 Evolution？"
-
-[Ric Flair, Randy Orton, Batista 从后台走出]
-
-Triple H: "The King of Kings... is HERE."
-```
-
-## 真实性格 vs 角色性格
-
-| 角色 | 真实 |
-|-----|------|
-| 操控型反派 | 私下温和 |
-| 权力欲望 | 专注家庭 |
-| 冷血 | 户外爱好者 |
+- **站立技特点**: 技术型冷静分析，节奏控制能力强
+- **招牌动作**: Spinebuster, Pedigree, 锁腿
+- **终结技**: Pedigree（双脚砸背）
 
 ## 经典语录
+1. "I am The Game. I am the King of Kings."
+2. "在这个行业里，只有权力才是永恒的！"
+3. "Every man who has ever lived has had to make a choice."
 
-> "I am The Game. I am the King of Kings. And I am here to play."
+## 选手简介
+Triple H是WWE历史上最具影响力的反派选手，也是现实中的WWE首席运营官。从Hunter Hearst Helmsley到The Game，他创造了职业摔角史上最成功的角色转型之一。他与Shawn Michaels创立的DX和与Ric Flair创立的Evolution深刻影响了WWE历史。作为擂台外的真实身份，他是三个女儿的父亲和户外运动爱好者，与角色中的权力狂人形象形成鲜明对比。
 
-> "In this business, there is only one thing that matters: Power."
-
-> "Every man who has ever lived has had to make a choice. Some choose good... some choose evil. I chose to be THE GAME."
-
----
-
-*Last updated: 2026-05-24*
-*Status: Active performer, WWE executive*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*
