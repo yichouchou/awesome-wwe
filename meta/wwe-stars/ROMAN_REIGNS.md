@@ -1,113 +1,79 @@
-# Roman Reigns
+# ROMAN REIGNS
 
 ## 基本信息
-
-- **中文名**: 罗曼·雷恩斯
-- **英文全名**: Leati Joseph Anoa'i
-- **WWE 擂台名**: Roman Reigns / The Tribal Chief
-- **出生日期**: 1985年5月25日
+- **中文名/英文名**: 罗曼·雷恩斯 / Roman Reigns
+- **擂台名**: Roman Reigns
+- **本名**: Leati Joseph Anoa'i
+- **出生日期**: 1985-05-25
 - **出生地**: 美国佛罗里达州彭萨科拉
-- **身高**: 6'3" (191 cm)
+- **身高**: 6'3 (191 cm)
 - **体重**: 265 lbs (120 kg)
-- **职业生涯**: 2010-至今
-- **家族**: 传奇萨摩亚家族，The Rock 表弟，The Bloodline 领袖
+- **首次登台**: 2010
+- **WWE首秀**: 2015
 
 ## 性格标签
+### 核心特质 (关键词)
+萨摩亚血统, 反派, 台柱, Bloodline领袖, Acknowledge
 
-- **核心特质**: 统治、荣耀、血统、威压
-- **标志性台词**: "Acknowledge me!", "The tribal chief has spoken"
-- **手势**: 双手高举过头，The Bloodline 招手
+### 口头禅/标志性台词
+- "Acknowledge me!"
+- "我是我家族的头！"
+- "Tribal Chief!"
 
-### 人格分析
+### 标志性动作
+Superman Punch, 金刚臂
 
-```
-统治力: ★★★★★☆
-反派度: ★★★★☆
-家族荣誉: ★★★★★☆
-摔角技术: ★★★★☆
-商业价值: ★★★★★
-```
+### 终结技
+**Spear / Guillotine Choke**
+
+### 人格雷达图
+| 特质 | 指数 |
+|------|------|
+| 正义坚守 | 15% |
+| 口才天赋 | 90% |
+| 力量意志 | 98% |
+| 技术细腻 | 78% |
+| 颠覆黑化 | 100% |
 
 ## WWE 成就
 
-| 赛事 | 年份 | 成就 |
-|-----|------|------|
-| WrestleMania 38 | 2022 | Undisputed WWE Champion |
-| WrestleMania 39 | 2023 | vs Cody Rhodes (双重冠军) |
-| WrestleMania XL | 2024 | vs Cody Rhodes (陪练团) |
-| Royal Rumble | 2015 | 冠军 |
-| Super Show-Down | 2018 | WWE Champion |
+| 赛事/冠军 | 次数 | 年份 |
+|----------|------|------|
+| WWE世界冠军 | 多次 | 2020-2025 |
+| UWF冠军 | 2次 | — |
+| Bloodline领袖 | — | 2020-至今 |
+| WrestleMania主赛 | 多次 | 2015-至今 |
 
-## 职业生涯亮点
+## 职业生涯时间线
+### 2010
+独立圈OVW发展
 
-### 2012-2015: The Shield 时代
-- 最强的三人组 (Seth Rollins, Dean Ambrose)
-- 三冠军统一赛
-- 转入单打后迅速崛起
+### 2015
+升级WWE主阵容，与The Shield
 
-### 2015-2020: 挑战与坚持
-- 白血病休假 (2017-2018)
-- 回归后更加强势
-- "This is my yard now"
+### 2020
+反派转型，Bloodline领袖，"Acknowledge me!"
 
-### 2020-2024: Bloodline Era
-- 创立 The Bloodline (Jimmy Uso, Jey Uso, Solo Sikoa)
-- "Acknowledge Me" 统治期
-- 与 Paul Heyman 的师徒关系
+### 2022-2025
+Solo加入，Bloodline统治擂台
 
-### 2024-2025: 转型与回归
-- 输给 Cody Rhodes 后短暂休息
-- 回归后挑战冠军
-- 家庭剧情线 (vs The Rock)
-
-## 经典对手
-
-- **Cody Rhodes**: 摔角狂热主赛，世代之战
-- **Seth Rollins**: The Shield 内战，冠军争夺
-- **Brock Lesnar**: 两代冠军对决 (2022)
-- **The Undertaker**: 传奇对决
-- **Dwayne "The Rock" Johnson**: 家族血统之争 (2024-2025)
+## 经典对手/恩怨
+- **Brock Lesnar** — 两次WrestleMania传奇对决
+- **Cody Rhodes** — 2023 WrestleMania经典
+- **The Rock** — 家族对决
 
 ## 摔角风格
-
-- **站立技**: 萨摩亚力量型拳法
-- **摔技**: Superman Punch, Spear
-- **终结技**: Spear, Guillotine Choke
-- **特色**: 统治性气场，威压感
-
-## Bloodline 剧情线
-
-```
-场景: SmackDown, 2023
-
-Roman: (坐在王座上) "在这个行业里，没有家族就没有冠军。"
-
-[Jimmy Uso 和 Jey Uso 站在两侧]
-
-Roman: "你们看到了吗？Cody Rhodes 以为他能打败我？
-       他以为他能 'finish the story'？"
-
-[嘲笑]
-
-Roman: "在我倒下之前，让我告诉你们——
-       Acknowledge Me，或者滚出我的领地。"
-
-[Paul Heyman: "My tribal chief..."]
-
-Roman: "The Bloodline 是永恒的。而我，是一切的主人。"
-```
+- **站立技特点**: 萨摩亚血统力量，Superman Punch和Spear终结技，强大的擂台气场
+- **招牌动作**: Superman Punch, 金刚臂, 跳跃飞冲肩
+- **终结技**: Spear / Guillotine Choke
 
 ## 经典语录
+1. "Acknowledge me!"
+2. "我是我家族的头！"
+3. "Tribal Chief!"
 
-> "Acknowledge Me!"
+## 选手简介
+Roman Reigns是WWE现任台柱，萨摩亚血统Anoa'i家族的标志性人物。2020年反派转型成为Bloodline领袖后，"Acknowledge me!"的口号风靡全球。多次夺得WWE世界冠军，与Brock Lesnar在WrestleMania的对决被公认为这个时代最伟大的摔角比赛。他是WWE历史上最具统治力和商业价值的选手之一。
 
-> "I'm not the bad guy. I'm just the Tribal Chief."
-
-> "The yard is mine. This is my yard now."
-
-> "You don't understand. It's not about titles. It's about acknowledging."
-
----
-
-*Last updated: 2026-05-24*
-*Status: Active top heel / Tribal Chief*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

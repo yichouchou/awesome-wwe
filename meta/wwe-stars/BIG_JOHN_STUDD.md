@@ -1,31 +1,48 @@
 # BIG JOHN STUDD
 
 ## 基本信息
+- **本名**: John Studd
+- **出生**: 1958年
+- **身高/体重**: 7'0" / 350 lbs (213cm / 159kg)
+- **摔角 debut**: 1980年代
+- **绰号**: The Big Red Machine
 
-- **名称**: BIG JOHN STUDD
-- **ID**: BIG_JOHN_STUDD
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+巨人、反派、力量
 
-## 简介
+### 口头禅/标志性台词
+"10英尺的人!"
 
-BIG JOHN STUDD 是 WWE 的一位职业摔角选手。
+### 标志性动作
+巨大身体展示
 
-## WWE 生涯
+### 终结技
+Big Chop, Bearhug
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★★★ | 体型:★★★★★ | 技术:★ | 耐久:★★★ | 气场:★★★
 
-## 动作特点
+## WWE 成就
+- WWF 选手
+- Royal Rumble 决赛选手（1989）
 
-待补充
+## 职业生涯时间线
+### 1980s-1990s: WWF 巨人时代
 
-## 经典比赛
+## 经典对手/恩怨
+Ultimate Warrior, Tiny Ron
 
-待补充
+## 摔角风格
+- **站立技特点**: 巨人压制型
+- **招牌动作**: Big Chop, Bearhug
+- **终结技**: Bearhug
 
----
+## 经典语录
+"10英尺的人!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+BIG JOHN STUDD 是 1980 年代 WWF 最著名的巨人选手之一，身高 7 英尺，以巨大的身体和 Chop 攻击著称，是早期巨人对决的代表人物。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

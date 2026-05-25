@@ -1,31 +1,45 @@
 # THE NWO
 
 ## 基本信息
+- **成员**: Hulk Hogan, Scott Hall, Kevin Nash, 待定
+- **成立**: 1996年
+- **绰号**: New World Order
 
-- **名称**: THE NWO
-- **ID**: THE_NWO
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+帮派、反派、革命
 
-## 简介
+### 口头禅/标志性台词**
+"Whose house is this? Our house!"
 
-THE NWO 是 WWE 的一位职业摔角选手。
+### 标志性动作
+圈
 
-## WWE 生涯
+### 终结技**
+待定
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+气场:★★ | 影响力:★★ | 团队:★★ | 反派:★★ | 未知:★★★
 
-## 动作特点
+## WWE 成就
+- WCW 时代传奇
 
-待补充
+## 职业生涯时间线
+### 1996-2000s: WCW
 
-## 经典比赛
+## 经典对手/恩怨
+待定
 
-待补充
+## 摔角风格
+- **站立技特点**: 待定
+- **招牌动作**: 待定
+- **终结技**: 待定
 
----
+## 经典语录
+"Whose house is this? Our house!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE NWO (New World Order) 是 WCW 1996 年成立的标志性帮派组合，由 Hulk Hogan、Scott Hall 和 Kevin Nash 创立，改变了现代摔角的历史进程。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

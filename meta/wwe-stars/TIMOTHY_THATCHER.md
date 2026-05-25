@@ -1,31 +1,48 @@
 # TIMOTHY THATCHER
 
 ## 基本信息
+- **本名**: Timothy Thatcher
+- **出生**: 1982年
+- **身高/体重**: 6'2" / 210 lbs (188cm / 95kg)
+- **摔角 debut**: 2005年
+- **绰号**: The Violence Artist
 
-- **名称**: TIMOTHY THATCHER
-- **ID**: TIMOTHY_THATCHER
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+硬核、技术型、严肃、德国血统
 
-## 简介
+### 口头禅/标志性台词
+"Violence is an art."
 
-TIMOTHY THATCHER 是 WWE 的一位职业摔角选手。
+### 标志性动作
+瞪视对手、交叉手臂
 
-## WWE 生涯
+### 终结技
+Camel Clutch, Boston Crab
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★ | 技术:★★★★ | 耐久:★★★ | 威慑:★★★★ | 魅力:★★
 
-## 动作特点
+## WWE 成就
+- NXT 选手（待确认具体冠军）
 
-待补充
+## 职业生涯时间线
+### 2005-2015: 独立圈崛起
+### 2015-2020: NXT / NXT UK
 
-## 经典比赛
+## 经典对手/恩怨
+Walter (现在 Gunther)、Dave Mastiff
 
-待补充
+## 摔角风格
+- **站立技特点**: 德国摔角技术，地面压制
+- **招牌动作**: 抱摔、踩踏
+- **终结技**: Camel Clutch
 
----
+## 经典语录
+"Violence is an art — and I am the master."
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+TIMOTHY THATCHER 是一位以德国血统和技术见长的硬核风格选手，擅长地面锁技和压迫性打法。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

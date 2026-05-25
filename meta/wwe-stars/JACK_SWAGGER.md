@@ -1,31 +1,48 @@
 # JACK SWAGGER
 
 ## 基本信息
+- **本名**: Jake "Jack" Swagger
+- **出生**: 1982年3月24日
+- **身高/体重**: 6'2" / 245 lbs (188cm / 111kg)
+- **摔角 debut**: 2006年
+- **绰号**: The All-American
 
-- **名称**: JACK SWAGGER
-- **ID**: JACK_SWAGGER
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+美国、正派、力量型
 
-## 简介
+### 口头禅/标志性台词**
+"Jack Swagger!"
 
-JACK SWAGGER 是 WWE 的一位职业摔角选手。
+### 标志性动作
+美国挥手
 
-## WWE 生涯
+### 终结技**
+Ankle Lock
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★ | 技术:★★ | 美国:★★★ | 气场:★★ | 潜力:★★
 
-## 动作特点
+## WWE 成就
+- WWE World Heavyweight Champion
+- WWE 选手
 
-待补充
+## 职业生涯时间线
+### 2006-2017: WWE
 
-## 经典比赛
+## 经典对手/恩怨
+待定
 
-待补充
+## 摔角风格
+- **站立技特点**: 待定
+- **招牌动作**: 待定
+- **终结技**: 待定
 
----
+## 经典语录
+"Jack Swagger!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+JACK SWAGGER 是 WWE 以美国正派形象著称的选手，曾获得 World Heavyweight Champion。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

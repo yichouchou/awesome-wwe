@@ -1,31 +1,46 @@
 # THE PUBLIC ENEMY
 
 ## 基本信息
+- **成员**: Johnny Grunge、Rocco Rock
+- **摔角 debut**: 1992年
+- **绰号**: The Public Enemy
 
-- **名称**: THE PUBLIC ENEMY
-- **ID**: THE_PUBLIC_ENEMY
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+硬核传奇、双打、ECW、狂野
 
-## 简介
+### 口头禅/标志性台词
+"We're the bad boys!"
 
-THE PUBLIC ENEMY 是 WWE 的一位职业摔角选手。
+### 标志性动作
+挑衅观众、狂野登场
 
-## WWE 生涯
+### 终结技
+五星级压制
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★★ | 速度:★★ | 技术:★★ | 硬度:★★★★★ | 团队:★★★★
 
-## 动作特点
+## WWE 成就
+- ECW世界双打冠军
+- ECW硬核传奇
 
-待补充
+## 职业生涯时间线
+### 1992-2005: ECW时代
 
-## 经典比赛
+## 经典对手/恩怨
+The Dudleys、The FBI
 
-待补充
+## 摔角风格
+- **站立技特点**: 硬核狂野型
+- **招牌动作**: 乱战攻击
+- **终结技**: 五星级压制
 
----
+## 经典语录
+"We're the bad boys!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE PUBLIC ENEMY（约翰尼·格兰奇 & 罗科·罗克）是ECW历史上最具标志性的双打组合之一，以狂野硬核风格和与观众的互动著称，对硬核摔角有深远影响。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

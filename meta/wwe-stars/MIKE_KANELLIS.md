@@ -1,31 +1,50 @@
 # MIKE KANELLIS
 
 ## 基本信息
+- **本名**: Mike Bennett
+- **出生**: 1985年
+- **身高/体重**: 6'1" / 220 lbs (185cm / 100kg)
+- **摔角 debut**: 2008年
+- **绰号**: The Man of the Hour
 
-- **名称**: MIKE KANELLIS
-- **ID**: MIKE_KANELLIS
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+正派、反派皆可、希腊血统、活力
 
-## 简介
+### 口头禅/标志性台词
+擂台宣言
 
-MIKE KANELLIS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+自信姿态
 
-## WWE 生涯
+### 终结技
+Gory Bomb、Michael's Moment
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★ | 速度:★★ | 技术:★★★ | 耐久:★★ | 魅力:★★★
 
-## 动作特点
+## WWE 成就
+- WWE选手
+- ROH冠军
+- 与Maria Kanellis的组合
 
-待补充
+## 职业生涯时间线
+### 2008-2016: ROH
+### 2016-2021: WWE
 
-## 经典比赛
+## 经典对手/恩怨
+WWE众选手
 
-待补充
+## 摔角风格
+- **站立技特点**: 技术型
+- **招牌动作**: Gory Bomb
+- **终结技**: Gory Bomb
 
----
+## 经典语录
+擂台宣言
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+MIKE KANELLIS（本名迈克·贝内特）以希腊血统和活力著称，与妻子Maria Kanellis一同加入WWE。他在ROH获得过冠军，在WWE期间以其充满能量的擂台风格吸引了众多粉丝。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

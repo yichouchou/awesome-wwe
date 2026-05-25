@@ -1,31 +1,48 @@
 # WILLIAM SHATNER
 
 ## 基本信息
+- **本名**: William Shatner
+- **出生**: 1931年3月22日
+- **身高/体重**: 6'0" / 200 lbs (183cm / 91kg)
+- **绰号**: Captain Kirk
 
-- **名称**: WILLIAM SHATNER
-- **ID**: WILLIAM_SHATNER
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+客串明星、星际迷航
 
-## 简介
+### 口头禅/标志性台词**
+"Set phasers to stun!"
 
-WILLIAM SHATNER 是 WWE 的一位职业摔角选手。
+### 标志性动作
+待定
 
-## WWE 生涯
+### 终结技**
+待定
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+气场:★★ | 影响力:★★ | 喜剧:★★ | 潜力:★★ | 未知:★★★
 
-## 动作特点
+## WWE 成就
+- WWE 名人堂
+- 跨界客串
 
-待补充
+## 职业生涯时间线
+### 1960s-至今: 演艺事业
+### 1990s: WWE 客串
 
-## 经典比赛
+## 经典对手/恩怨
+待定
 
-待补充
+## 摔角风格
+- **站立技特点**: N/A
+- **招牌动作**: N/A
+- **终结技**: N/A
 
----
+## 经典语录
+"Set phasers to stun!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+WILLIAM SHATNER 是著名演员，以《星际迷航》Captain Kirk 角色著称，曾客串 WWE 并入驻 WWE 名人堂。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

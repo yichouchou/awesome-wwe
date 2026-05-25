@@ -1,31 +1,47 @@
 # JUSTIN GABRIEL
 
 ## 基本信息
+- **本名**: Justin Gabriel
+- **出生**: 1988年
+- **身高/体重**: 5'9" / 180 lbs (175cm / 82kg)
+- **摔角 debut**: 2005年
+- **绰号**: The Canadian Gravity Guy
 
-- **名称**: JUSTIN GABRIEL
-- **ID**: JUSTIN_GABRIEL
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+高飞、加拿大血统
 
-## 简介
+### 口头禅/标志性台词**
+"Wow!"
 
-JUSTIN GABRIEL 是 WWE 的一位职业摔角选手。
+### 标志性动作
+飞行动作
 
-## WWE 生涯
+### 终结技**
+待定
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+高飞:★★★★ | 技术:★★ | 速度:★★★ | 气场:★★ | 潜力:★★
 
-## 动作特点
+## WWE 成就
+- WWE 选手（与 Husky Harris / Wade Barrett 有剧情）
 
-待补充
+## 职业生涯时间线
+### 2005-2013: WWE / 独立圈
 
-## 经典比赛
+## 经典对手/恩怨
+Wade Barrett, Husky Harris
 
-待补充
+## 摔角风格
+- **站立技特点**: 高飞
+- **招牌动作**: 飞行动作
+- **终结技**: 待定
 
----
+## 经典语录
+"Wow!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+JUSTIN GABRIEL 是 WWE 高飞选手，以加拿大血统和飞行技术著称，曾是 NXT 早期成员之一。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

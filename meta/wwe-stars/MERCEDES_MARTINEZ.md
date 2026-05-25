@@ -1,31 +1,48 @@
 # MERCEDES MARTINEZ
 
 ## 基本信息
+- **本名**: Mercedes Martinez
+- **出生**: 1979年
+- **身高/体重**: 5'6" / 135 lbs (168cm / 61kg)
+- **摔角 debut**: 1998年
+- **绰号**: The Latina Heat, The Samoan Dynamite
 
-- **名称**: MERCEDES MARTINEZ
-- **ID**: MERCEDES_MARTINEZ
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+技术型、萨摩亚血统、坚硬
 
-## 简介
+### 口头禅/标志性台词**
+"Socal!"
 
-MERCEDES MARTINEZ 是 WWE 的一位职业摔角选手。
+### 标志性动作
+萨摩亚攻击
 
-## WWE 生涯
+### 终结技**
+ 待定
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+技术:★★★ | 气场:★★ | 耐久:★★ | 血统:★★★ | 潜力:★★
 
-## 动作特点
+## WWE 成就
+- WWE 选手（NXT / 205 Live）
 
-待补充
+## 职业生涯时间线
+### 1998-2019: 独立圈
+### 2019-2023: WWE
 
-## 经典比赛
+## 经典对手/恩怨
+待定
 
-待补充
+## 摔角风格
+- **站立技特点**: 待定
+- **招牌动作**: 待定
+- **终结技**: 待定
 
----
+## 经典语录
+"Socal!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+MERCEDES MARTINEZ 是 WWE 萨摩亚血统选手，以技术见长，在独立圈有辉煌战绩后加入 WWE。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

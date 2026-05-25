@@ -1,31 +1,48 @@
 # THE GRAND WIZARD
 
 ## 基本信息
+- **本名**: Ernie Roth
+- **出生**: 1931年 / 逝世：1983年
+- **身高/体重**: 5'10" / 180 lbs (178cm / 82kg)
+- **经理人 debut**: 1960年代
+- **绰号**: The Grand Wizard of Wrestling
 
-- **名称**: THE GRAND WIZARD
-- **ID**: THE_GRAND_WIZARD
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+经纪人、浮夸、传奇反派
 
-## 简介
+### 口头禅/标志性台词
+"Dat's gonna hurt, baby!"
 
-THE GRAND WIZARD 是 WWE 的一位职业摔角选手。
+### 标志性动作
+挥舞围巾、夸张手势
 
-## WWE 生涯
+### 终结技
+无（经理人角色）
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★ | 速度:★ | 技术:★ | 耐久:★ | 魅力:★★★★
 
-## 动作特点
+## WWE 成就
+- WWE传奇经纪人
+- 代表选手: Abdullah the Butcher、The Sheik
 
-待补充
+## 职业生涯时间线
+### 1960s-1980s: 传奇经纪人时代
 
-## 经典比赛
+## 经典对手/恩怨
+其他传奇经纪人
 
-待补充
+## 摔角风格
+- **站立技特点**: 经理人
+- **招牌动作**: 挥舞围巾
+- **终结技**: 无
 
----
+## 经典语录
+"Dat's gonna hurt, baby!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE GRAND WIZARD（欧尼·罗斯）是WWE历史上最著名的摔角经纪人之一，以夸张的围巾和戏剧性的表演风格著称。他是1970-80年代反派选手Abdullah the Butcher和The Sheik的代言人，1983年逝世后被追授为摔角界的重要人物。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

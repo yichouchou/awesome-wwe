@@ -1,31 +1,45 @@
 # THE BLACKJACKS
 
 ## 基本信息
+- **成员**: Blackjack Mulligan、Bobby Heenan（改为Blackjack Lanza）
+- **摔角 debut**: 1970年代
+- **绰号**: The Blackjacks
 
-- **名称**: THE BLACKJACKS
-- **ID**: THE_BLACKJACKS
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+硬汉双打、牛仔、力量
 
-## 简介
+### 口头禅/标志性台词
+"Ready to ride."
 
-THE BLACKJACKS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+牛仔帽展示
 
-## WWE 生涯
+### 终结技
+组合压制
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★★ | 速度:★★ | 技术:★★ | 耐久:★★★ | 魅力:★★★
 
-## 动作特点
+## WWE 成就
+- WWE双打冠军
 
-待补充
+## 职业生涯时间线
+### 1970s-1980s: WWE硬汉时代
 
-## 经典比赛
+## 经典对手/恩怨
+其他双打组合
 
-待补充
+## 摔角风格
+- **站立技特点**: 力量型牛仔
+- **招牌动作**: 牛仔帽展示
+- **终结技**: 组合压制
 
----
+## 经典语录
+"Ready to ride."
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE BLACKJACKS是1970-80年代WWE标志性硬汉双打组合，以牛仔形象和力量型风格著称。他们代表了WWE的"硬汉时代"，是摔角史上重要的双打组合之一。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

@@ -1,31 +1,45 @@
 # THE NASTY BOYS
 
 ## 基本信息
+- **成员**: Brian Pillman, Knobbs
+- **摔角 debut**: 1980年代
+- **绰号**: The Nasty Boys
 
-- **名称**: THE NASTY BOYS
-- **ID**: THE_NASTY_BOYS
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+硬核、ECW、喜剧
 
-## 简介
+### 口头禅/标志性台词**
+"Nasty!"
 
-THE NASTY BOYS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+脏乱庆祝
 
-## WWE 生涯
+### 终结技
+Nasty Neckbreaker
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+硬度:★★★★ | 喜剧:★★★ | 团队:★★★ | 技术:★★ | 气场:★★
 
-## 动作特点
+## WWE 成就
+- ECW 世界双打冠军
 
-待补充
+## 职业生涯时间线
+### 1980s-1990s: ECW
 
-## 经典比赛
+## 经典对手/恩怨
+The Public Enemy, 其他 ECW 组合
 
-待补充
+## 摔角风格
+- **站立技特点**: 硬核喜剧
+- **招牌动作**: 脏乱攻击
+- **终结技**: Nasty Neckbreaker
 
----
+## 经典语录
+"Nasty!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE NASTY BOYS 是 ECW 1980-90 年代硬核双打组合，以脏乱风格和喜剧元素著称。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

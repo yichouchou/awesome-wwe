@@ -1,31 +1,45 @@
 # THE NATURAL DISASTERS
 
 ## 基本信息
+- **成员**: Earthquake, Typhoon
+- **成立**: 1980年代
+- **绰号**: The Natural Disasters
 
-- **名称**: THE NATURAL DISASTERS
-- **ID**: THE_NATURAL_DISASTERS
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+喜剧双打、力量型
 
-## 简介
+### 口头禅/标志性台词**
+"待定"
 
-THE NATURAL DISASTERS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+待定
 
-## WWE 生涯
+### 终结技**
+待定
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★ | 喜剧:★★ | 团队:★★ | 气场:★★ | 未知:★★★
 
-## 动作特点
+## WWE 成就
+- WWF 双打组合
 
-待补充
+## 职业生涯时间线
+### 1980s-1990s: WWF
 
-## 经典比赛
+## 经典对手/恩怨
+待定
 
-待补充
+## 摔角风格
+- **站立技特点**: 待定
+- **招牌动作**: 待定
+- **终结技**: 待定
 
----
+## 经典语录
+待定
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE NATURAL DISASTERS 是 WWF 1980-90 年代喜剧双打组合，以 Earthquake 和 Typhoon 两位巨人组成。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

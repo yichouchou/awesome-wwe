@@ -1,31 +1,45 @@
 # THE FABULOUS FREEBIRDS
 
 ## 基本信息
+- **成员**: Michael Hayes、Terry Buddy Roberts、Jimmy Snuka
+- **摔角 debut**: 1970年代
+- **绰号**: The Fabulous Freebirds
 
-- **名称**: THE FABULOUS FREEBIRDS
-- **ID**: THE_FABULOUS_FREEBIRDS
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+传奇帮派、反派、南部、技术
 
-## 简介
+### 口头禅/标志性台词
+"Freebird!"
 
-THE FABULOUS FREEBIRDS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+Freebird挥手
 
-## WWE 生涯
+### 终结技
+组合攻击
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★★ | 速度:★★ | 技术:★★★ | 团队:★★★★ | 魅力:★★★
 
-## 动作特点
+## WWE 成就
+- NWA/独立圈传奇帮派
 
-待补充
+## 职业生涯时间线
+### 1970s-1990s: 南部联盟
 
-## 经典比赛
+## 经典对手/恩怨
+The Dusty Rhodes、The Von Erichs
 
-待补充
+## 摔角风格
+- **站立技特点**: 南部技术型
+- **招牌动作**: Freebird挥手
+- **终结技**: 组合攻击
 
----
+## 经典语录
+"Freebird!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+THE FABULOUS FREEBIRDS是1970-80年代南部最具标志性的帮派组合，以Michael Hayes和Buddy Roberts为核心。他们代表了南部摔角的风格，是摔角史上最具影响力的帮派组合之一。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

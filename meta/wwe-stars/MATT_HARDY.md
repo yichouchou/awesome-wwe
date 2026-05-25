@@ -1,31 +1,52 @@
 # MATT HARDY
 
 ## 基本信息
+- **本名**: Matthew "Matt" Hardy
+- **出生**: 1974年9月23日
+- **身高/体重**: 6'1" / 215 lbs (185cm / 98kg)
+- **摔角 debut**: 1993年
+- **绰号**: The Charismatic Enigma, Big Money Matt
 
-- **名称**: MATT HARDY
-- **ID**: MATT_HARDY
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+创新、角色大师、变装、创意无限
 
-## 简介
+### 口头禅/标志性台词**
+"Live with Hardys? Oh yes!"
 
-MATT HARDY 是 WWE 的一位职业摔角选手。
+### 标志性动作**
+Delete 手势、拥抱
 
-## WWE 生涯
+### 终结技**
+Twist of Fate, Side Effect
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图**
+创意:★★★★★ | 技术:★★★★ | 气场:★★★ | 喜剧:★★★ | 影响力:★★★★
 
-## 动作特点
+## WWE 成就
+- WWE Tag Team Champion (多次)
+- WCW Champion
+- WWE 选手
 
-待补充
+## 职业生涯时间线
+### 1993-2005: 独立圈
+### 2005-2010: WWE
+### 2010-2019: TNA / Impact
+### 2019-2024: WWE (Various personas)
 
-## 经典比赛
+## 经典对手/恩怨
+Jeff Hardy (兄弟), Edge, The圈
 
-待补充
+## 摔角风格
+- **站立技特点**: 技术全面，善于变装
+- **招牌动作**: Twist of Fate
+- **终结技**: Twist of Fate
 
----
+## 经典语录
+"Live with Hardys? Oh yes!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+MATT HARDY 是 WWE 历史上最具创意和变革性的选手之一，以多个角色（The Hardys、Big Money Matt、Brother Nero 等）著称，与 Jeff Hardy 的兄弟组合是永恒经典。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

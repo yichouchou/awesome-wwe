@@ -1,31 +1,47 @@
 # JORDYNE GRACE
 
 ## 基本信息
+- **本名**: Jordyne Grace
+- **出生**: 1996年（美国）
+- **身高/体重**: 5'8" / 150 lbs (173cm / 68kg)
+- **摔角 debut**: 2020年代
+- **绰号**: The Model
 
-- **名称**: JORDYNE GRACE
-- **ID**: JORDYNE_GRACE
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+模特背景、自信、强势、新生代
 
-## 简介
+### 口头禅/标志性台词
+"这是我的舞台！"
 
-JORDYNE GRACE 是 WWE 的一位职业摔角选手。
+### 标志性动作
+Model Dropkick、优雅姿态
 
-## WWE 生涯
+### 终结技
+Grace Note (Swinging Ura-Nage)
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★ | 速度:★★★ | 技术:★★★ | 耐久:★★ | 魅力:★★★★
 
-## 动作特点
+## WWE 成就
+- NXT女子选手
 
-待补充
+## 职业生涯时间线
+### 2023-至今
 
-## 经典比赛
+## 经典对手/恩怨
+Kelani Jordan、Thea Hail
 
-待补充
+## 摔角风格
+- **站立技特点**: 模特背景，姿态优雅
+- **招牌动作**: Dropkick、Splash
+- **终结技**: Grace Note
 
----
+## 经典语录
+"我的美丽与力量并存！"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+JORDYNE GRACE是WWE新生代女子选手，拥有模特背景的她以自信气质和出色能力在NXT崭露头角，展现了美丽与力量的结合，是女子摔角的未来之星。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

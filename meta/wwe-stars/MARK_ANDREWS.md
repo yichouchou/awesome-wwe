@@ -1,31 +1,49 @@
 # MARK ANDREWS
 
 ## 基本信息
+- **本名**: Mark Andrews
+- **出生**: 1991年（威尔士）
+- **身高/体重**: 5'9" / 165 lbs (175cm / 75kg)
+- **摔角 debut**: 2010年
+- **绰号**: The Welsh Buzzsaw
 
-- **名称**: MARK ANDREWS
-- **ID**: MARK_ANDREWS
-- **层级**: 传奇
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+高飞、威尔士、自信、技术
 
-## 简介
+### 口头禅/标志性台词
+"Cardiff!"
 
-MARK ANDREWS 是 WWE 的一位职业摔角选手。
+### 标志性动作
+飞行动作、自信手势
 
-## WWE 生涯
+### 终结技
+5 Star Frog Splash
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★ | 速度:★★★★★ | 技术:★★★★ | 耐久:★★★ | 魅力:★★★★
 
-## 动作特点
+## WWE 成就
+- NXT UK Champion
+- 2016年PWI年度新人
 
-待补充
+## 职业生涯时间线
+### 2010-2018: 英国独立圈
+### 2018-2023: NXT UK
 
-## 经典比赛
+## 经典对手/恩怨
+Travis Banks、Walter、Jordan Devlin
 
-待补充
+## 摔角风格
+- **站立技特点**: 高飞型，技术全面
+- **招牌动作**: 飞行动作、快速攻击
+- **终结技**: 5 Star Frog Splash
 
----
+## 经典语录
+"Cardiff! 我来自威尔士，而威尔士人从不放弃！"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+MARK ANDREWS是威尔士最著名的摔角选手之一，以高飞技术和大胆风格著称。他是NXT UK的标志性人物，赢得过NXT UK冠军，是威尔士摔角的骄傲。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

@@ -1,31 +1,48 @@
 # ONEY LORCAN
 
 ## 基本信息
+- **本名**: Kenneth Crawford
+- **出生**: 1986年（英国）
+- **身高/体重**: 5'9" / 180 lbs (175cm / 82kg)
+- **摔角 debut**: 2009年
+- **绰号**: The Kinetic Flash
 
-- **名称**: ONEY LORCAN
-- **ID**: ONEY_LORCAN
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+技术型、英国血统、高能量、速度
 
-## 简介
+### 口头禅/标志性台词
+"You can't stop the flash!"
 
-ONEY LORCAN 是 WWE 的一位职业摔角选手。
+### 标志性动作
+快速翻身、飞扑
 
-## WWE 生涯
+### 终结技
+DDT、Hurricanrana
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+力量:★★ | 速度:★★★★★ | 技术:★★★★ | 耐久:★★★ | 魅力:★★★
 
-## 动作特点
+## WWE 成就
+- NXT UK Tag Team Champion
 
-待补充
+## 职业生涯时间线
+### 2009-2018: 独立圈
+### 2018-2022: NXT UK / 205 Live
 
-## 经典比赛
+## 经典对手/恩怨
+WALTER、Jordan Devlin、Travis Banks
 
-待补充
+## 摔角风格
+- **站立技特点**: 快速站立技，高能量
+- **招牌动作**: 飞扑、Hurricanrana
+- **终结技**: DDT
 
----
+## 经典语录
+"You can't stop the flash!"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+ONEY LORCAN是英国出生的技术型选手，在NXT UK和205 Live有出色表现。他的速度和技术使他成为擂台上的亮点，以"你无法阻止闪光"的宣言和高能量风格著称。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*
