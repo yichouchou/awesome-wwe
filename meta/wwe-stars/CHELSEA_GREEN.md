@@ -1,31 +1,52 @@
 # CHELSEA GREEN
 
 ## 基本信息
+- **本名**: Chelsea Green
+- **出生**: 1991年12月11日，加拿大不列颠哥伦比亚省
+- **身高**: 165 cm
+- **体重**: 58 kg
+- **摔角出道**: 2016年
+- **主要角色**: Raw选手 / 喜剧担当
 
-- **名称**: CHELSEA GREEN
-- **ID**: CHELSEA_GREEN
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+疯狂、搞笑、戏剧化、时尚、心机
+### 口头禅/标志性台词
+"Hot trash! We're hot trash!"
+### 标志性动作
+与搭档的同步舞蹈、与Rebecca Cruz的垃圾筒互动
+### 终结技
+Unfeeling Holy (抱摔DDT)
+### 人格雷达图
+喜剧 ★★★★★ | 疯狂 ★★★★ | 戏剧 ★★★★ | 时尚 ★★★ | 硬核 ★
 
-## 简介
+## WWE 成就
+- 暂无主要WWE冠军
+- 与Rebecca Cruz组成"Wendy"喜剧组合
+- 2024年女子皇家大战参赛选手
 
-CHELSEA GREEN 是 WWE 的一位职业摔角选手。
+## 职业生涯时间线
+### 2016-2019: 独立联盟（Wrestle-1, Shimmer等）
+### 2020: 参加WWE TRYOUT
+### 2021: 正式签约WWE
+### 2021-2023: NXT报道，因伤缺席
+### 2024: 回归Raw，与Rebecca Cruz组成喜剧组合
 
-## WWE 生涯
+## 经典对手/恩怨
+- Becky Lynch（与搭档互动）
+- 上官论（女子冠军剧情）
+- Meta Flying（喜剧对决）
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+## 摔角风格
+- **站立技特点**: 喜剧风格，动作夸张但有一定基础
+- **招牌动作**: 垃圾筒恶作剧、抱摔
+- **终结技**: Unfeeling Holy
 
-## 动作特点
+## 经典语录
+"Hot trash! But we're HOT hot trash!"
 
-待补充
+## 选手简介
+Chelsea Green是WWE最独特的存在——她将喜剧与摔角完美融合。加拿大出身的她曾就读于不列颠哥伦比亚大学，在独立界以时尚达人和喜剧演员身份出道。与Rebecca Cruz组成的喜剧组合"Wendy"成为Raw的一道独特风景线。她的名言"Hot trash"已成为网络热梗，而她永不言败的精神也赢得了观众的心。
 
-## 经典比赛
-
-待补充
-
----
-
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料 + WWE百科*

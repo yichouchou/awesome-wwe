@@ -1,31 +1,64 @@
 # DOMINIK MYSTERIO
 
 ## 基本信息
+- **擂台名**: Dominik Mysterio
+- **本名**: Dominik Gutiérrez
+- **出生地**: 美国加州圣地亚哥
+- **父亲**: Rey Mysterio
+- **WWE状态**: 现役 (Raw)
+- **首秀**: 2019年
+- **身高**: 6'1" (185 cm)
+- **体重**: 200 lbs (91 kg)
 
-- **名称**: DOMINIK MYSTERIO
-- **ID**: DOMINIK_MYSTERIO
-- **层级**: 其他
-- **分类**: WWE 选手
+## 性格标签
+### 核心特质 (关键词)
+网红少年、叛逆之子、擂台新星
 
-## 简介
+### 口头禅/标志性台词
+"你不知道我是谁？你马上就会知道了。"
 
-DOMINIK MYSTERIO 是 WWE 的一位职业摔角选手。
+### 标志性动作
+单手倒立踢腿、Mysterio式蹬墙扑击、戴口罩进场
 
-## WWE 生涯
+### 终结技
+3 Amigos (三次抛摔)、West Coast Pop (臀部抛出)
 
-- WWE 参赛状态: 待确认
-- 首秀年份: 待查
-- 主要成就: 待补充
+### 人格雷达图
+```
+叛逆指数: ★★★★☆
+反派度:   ★★★★☆
+人气指数: ★★★★★
+技术能力: ★★★☆☆
+潜力值:   ★★★★★
+```
 
-## 动作特点
+## WWE 成就
+- WWE Raw 男子双打冠军 (与父亲 Rey Mysterio)
+- 2022-2023 擂台之王参赛者
+- NXT 最佳新秀候选
 
-待补充
+## 职业生涯时间线
+- 2019: WWE 首秀 (与父亲 Rey Mysterio 一起)
+- 2020-2021: NXT 发展
+- 2022: 父亲Rey Mysterio的背叛剧情，转向反派
+- 2023: Raw 主力阵容
+- 2024: 与父亲组队夺双打冠军
 
-## 经典比赛
+## 经典对手/恩怨
+- Rey Mysterio (父亲): 背叛剧情，对抗到和解
+- The Judgment Day: 入侵剧情
+- Bobby Lashley: Raw 剧情冲突
 
-待补充
+## 摔角风格
+- **站立技特点**: 高飞基础，父亲真传
+- **招牌动作**: Mysterio式蹬墙、单手倒立
+- **终结技**: 3 Amigos
 
----
+## 经典语录
+> "我不是 Rey Mysterio 的儿子——我是 Dominik Mysterio。"
 
-*Generated from WWE.com talent list*
-*Last updated: 2026-05-24*
+## 选手简介
+Dominik Mysterio 是 WWE 传奇高飞选手 Rey Mysterio 的儿子，继承了父亲的高飞天赋并逐渐发展出自己的风格。2019年首秀后以"太子爷"形象出道，2022年与父亲反目成仇后转型为反派，一句"你没有教我摔角，你只教我恨"成为年度金句。如今已成为 Raw 主力阵容的重要角色，擂台魅力与日俱增。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*

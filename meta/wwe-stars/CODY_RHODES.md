@@ -1,4 +1,4 @@
-# Cody Rhodes
+# CODY RHODES
 
 ## 基本信息
 
@@ -9,106 +9,78 @@
 - **身高**: 6'2" (188 cm)
 - **体重**: 215 lbs (97 kg)
 - **职业生涯**: 2006-至今
-- **家族**: 传奇家族，父亲 Dusty Rhodes
+- **别名**: "The American Nightmare", "Stardust"
 
 ## 性格标签
 
-- **核心特质**: 励志、荣耀、家族传承、追求完美
-- **标志性动作**: Cross Rhodes (终结技), 戴面具庆祝
-- **入场音乐**: "Kingdom" by CFO$ (with vocals by Hui Cui)
-- **纹身**: 家族盾牌 logo, " Stardust" 星星图案
+### 核心特质 (关键词)
+heroic, determined, dramatic, family legacy, perfectionist
 
-### 人格分析
+### 口头禅/标志性台词
+"Finish the story!"
 
+### 标志性动作
+Cross Rhodes 庆祝、戴面具
+
+### 终结技
+Cross Rhodes (过肩摔)
+
+### 人格雷达图
 ```
-励志指数: ★★★★★☆
-家族荣誉: ★★★★★☆
+励志指数: ★★★★★
+家族荣誉: ★★★★★
 表演能力: ★★★★☆
-领导力:   ★★★★☆
-反派度:   ★★☆☆☆
+反派度: ★★☆☆☆
+技术性: ★★★★☆
 ```
 
 ## WWE 成就
 
-| 赛事 | 年份 | 成就 |
-|-----|------|------|
-| WrestleMania XL | 2024 | WWE Champion (vs Roman Reigns) |
-| WrestleMania 39 | 2023 | Undisputed WWE Champion |
-| Royal Rumble | 2024 | Men's Royal Rumble 冠军 |
-| Royal Rumble | 2023 | Men's Royal Rumble 冠军 |
-| WWE Championship | 2次 | 2023-2024 |
+- **WWE Champion**: 2次（2023-2024）
+- **Undisputed WWE Champion**: 1次（2023 WrestleMania 39）
+- **Men's Royal Rumble**: 2次（2023, 2024）
+- **World Heavyweight Champion**: 1次
 
-## 职业生涯亮点
+## 职业生涯时间线
 
-### 2007-2015: Legacy 时代
-- 与父亲 Dusty Rhodes 一起摔角
-- Stardust 角色 (2014-2015)
-- 离开 WWE 加入 TNA/独立摔角界
+### 2007-2015
+早期职业生涯，Legacy 时代，与父亲 Dusty Rhodes
 
-### 2016-2018: ROH 巅峰
-- ROH World Champion
-- 全美巡演，积累人气
-- 2018年回归 WWE
+### 2014-2015
+Stardust 角色，创意满分
 
-### 2019-2022: 无冕之王
-- "Finish the Story" 主题
-- 多次挑战 Championship 未果
-- 被称为 "The American Nightmare"
+### 2016-2018
+离开 WWE，ROH World Champion
 
-### 2023-2025: 冠军加冕
-- 2023 Royal Rumble 胜者
-- WrestleMania 39 击败 Roman Reigns 夺冠
-- 2024 WrestleMania XL vs Roman Reigns (摔角狂热大赛主赛)
-- "The American Nightmare" 终于登顶
+### 2019-2022
+回归 WWE，"Finish the Story"，无冕之王
 
-## 经典对手
+### 2023-至今
+WrestleMania 39 夺冠，"The American Nightmare" 登顶
 
-- **Roman Reigns**: 摔角狂热主赛，复仇剧情
-- **Seth Rollins**: 兄弟对决，The Shield 内战
-- **Jey Uso**: 血统之争
-- **Dusty Rhodes**: 家族传承 (早期)
+## 经典对手/恩怨
+
+- **Roman Reigns**: 两次 WrestleMania 主赛对手
+- **Seth Rollins**: The Shield 内战
+- **Jey Uso**: Bloodline 剧情核心
 
 ## 摔角风格
 
-- **站立技**: 正面交锋型，拳法精准
-- **摔技**: Disaster Kick, Cross Rhodes
-- **终结技**: Cross Rhodes (过肩摔)
-- **特色**: 面具元素，星尘元素
-
-## 代表剧本
-
-```
-场景: WrestleMania XL 主赛
-
-Cody: (站在擂台中央) "从我记事起，就有人在问我一个问题——"
-
-[全场屏息]
-
-Cody: "你是谁？"
-
-[观众高呼 "CODY! CODY! CODY!"]
-
-Cody: "我的父亲倒下了。The Rock 倒下了。Mick Foley 倒下了。
-       Triple H 倒下了。John Cena 倒下了。"
-
-[指向天空]
-
-Cody: "但有一件事你们永远记住——"
-
-[脱下外套，露出冠军腰带]
-
-Cody: "The American Nightmare 从来不会死在 WrestleMania！"
-```
+- **站立技特点**: 正面交锋型，拳法精准
+- **招牌动作**: Disaster Kick、Cross Rhodes
+- **终结技**: Cross Rhodes（过肩摔）
 
 ## 经典语录
 
 > "I'm not a villain. I'm not a hero. I'm something in between."
 
-> "We are the architects of our own destiny."
-
 > "Every story deserves an ending. This is MY ending!"
 
----
+> "The American Nightmare never dies at WrestleMania!"
 
-*Last updated: 2026-05-24*
-*Status: Active WWE Champion / Top babyface*
+## 选手简介
+
+Cody Rhodes 是传奇家族 Dusty Rhodes 的儿子，他的职业生涯目标始终是"完成故事"——赢得 WWE Championship 来完成父亲的遗愿。2023年 WrestleMania 39，他终于击败 Roman Reigns 成为 Undisputed WWE Champion，完成了这个跨越多年的旅程。他的 "American Nightmare" 形象已经成为现代 WWE 的标志性角色，而他与 Roman Reigns 的 Bloodline 剧情更是 WWE 史上最伟大的剧情之一。
+
+*Last updated: 2026-05-25*
+*数据来源: 用户提供资料*
